@@ -1,7 +1,18 @@
 # -*- coding: utf-8 -*-
 """Metrolinx — Rail Simulation Specialist, Operations (117317)."""
 
-from content3 import (NAME, CONTACT, CITY_HEAD, METROLINX_HEAD, MOTT, UOFA, resume)
+from content3 import (NAME, CONTACT, CITY_HEAD, METROLINX_HEAD, MOTT, resume)
+
+# The shared UofA block runs to two bullets. On a resume already carrying four
+# jobs, the second one — writing up results for a non-modelling audience — is
+# the least load-bearing line for a simulation role, and the City entry already
+# makes that point. Folded into one bullet so the page can breathe.
+UOFA_SHORT = [
+    "SUB: Graduate Research Assistant",
+    "DATE: University of Alberta  |  January 2020 – August 2022",
+    "B: Master's research on how road networks perform during emergency evacuations, using macroscopic (LWR) "
+    "and agent-based (MATSim) models, working with large travel datasets throughout.",
+]
 
 DATE = "September 29, 2026"
 
@@ -26,36 +37,36 @@ METROLINX_SIM = METROLINX_HEAD + [
     "B: Assessed the network effect of temporary and permanent slow orders, including how far a speed "
     "restriction carried beyond the subdivision it sat on.",
     "B: Analysed run-time and speed profile patterns across subdivisions to find where schedules were most "
-    "exposed to variance, working from the operations data directly where the volumes ruled out doing it "
-    "by hand.",
-    "B: Worked with schedulers, operations staff and engineers to pin down the technical and operational "
-    "variables a service plan had to be built on.",
+    "exposed to variance, working directly from the operations data.",
+    "B: Worked with schedulers, operations staff and engineers to pin down the variables a service plan had "
+    "to be built on.",
 ]
 
+# Three bullets, not four. Development-application review came out: it is the
+# least relevant City duty for a rail simulation role and the cover letter
+# still makes the point. A one-page resume that is legible beats a complete
+# one that is set at nine point.
 CITY_SIM = CITY_HEAD + [
-    "B: Analyze travel and network data to establish where capacity falls short and what that means for "
+    "B: Analyze travel and network data to establish where capacity falls short, and what that means for "
     "future service and investment.",
-    "B: Review development applications and engineering studies for their effect on existing and planned "
-    "infrastructure, and recommend conditions where capacity is at risk.",
-    "B: Built the Transportation Data Dashboard, combining several years of data from separate operational "
-    "sources into one validated source the division reports from.",
-    "B: Run assigned studies from scoping through to recommendations, and write the technical reports and "
-    "briefing notes that carry them to planners, engineers and managers across divisions.",
+    "B: Built the Transportation Data Dashboard, combining years of data from separate operational sources "
+    "into one validated source the division reports from.",
+    "B: Run assigned studies from scoping to recommendations, and write the technical reports and briefing "
+    "notes that carry findings across divisions.",
 ]
 
 SKILLS_SIM = [
     "H2: Skills",
-    "P: OpenTrack rail simulation and network modelling. Python (Pandas, NumPy), SQL and JavaScript. "
-    "Operations data handling, pipelines and validation. VISSIM, Synchro and MATSim. ArcGIS and QGIS. "
-    "Technical reporting and performance dashboards. MS Office, including large multi-source Excel workbooks.",
+    "P: OpenTrack rail simulation and network modelling. Python (Pandas, NumPy) and SQL. Operations data "
+    "handling, pipelines and validation. VISSIM, Synchro, MATSim, ArcGIS and QGIS. Technical reporting and "
+    "dashboards. Advanced Excel.",
 ]
 
 RESUME_117317 = resume(
-    "Transportation engineer with a master's degree and a year in the Metrolinx Service Design office, where "
-    "the work was rail network simulation and modelling in OpenTrack. Currently an Assistant Planner with the "
-    "City of Toronto. Builds the simulation and analysis that turns proposed service and infrastructure "
-    "changes into defensible operating requirements.",
-    CITY_SIM + METROLINX_SIM + MOTT + UOFA, skills=SKILLS_SIM)
+    "Transportation engineer with a master's degree and a year in the Metrolinx Service Design office doing "
+    "rail network simulation and modelling in OpenTrack. Now an Assistant Planner with the City of Toronto, "
+    "turning proposed service and infrastructure changes into defensible operating requirements.",
+    CITY_SIM + METROLINX_SIM + MOTT + UOFA_SHORT, skills=SKILLS_SIM)
 
 COVER_117317 = letter(
     "Talent Acquisition", "Operations", "Metrolinx, 130 Adelaide Street West",

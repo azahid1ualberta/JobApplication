@@ -65,41 +65,56 @@ def _rich(text):
     return _BOLD.sub(r'<b>\1</b>', text)
 
 
-def build_pdf(lines, path, body_size=10, leading_mult=1.36, space_after=8,
-              margin=0.9, head_before=11, title=None):
-    lead = body_size * leading_mult
+def build_pdf(lines, path, body=9.7, lead_mult=1.40, para_gap=7.5,
+              bullet_gap=3.6, entry_gap=8.5, head_gap=12, line_gap=2.4,
+              margin=0.75, name_size=19, title=None):
+    """Render tagged lines to a PDF.
+
+    Every gap is its own argument rather than a multiple of one number, because
+    deriving them all from a single value is what made an earlier version of
+    this collapse: a tight paragraph gap dragged the bullet gap down with it.
+
+    The type scale is deliberately short — three sizes plus the name — so the
+    two faces do not read as a pile of slightly different sizes:
+
+        name                      name_size
+        headings and job titles   body + 0.6
+        body text and bullets     body
+        dates and contact line    body - 0.9
+    """
+    lead = body * lead_mult
+    big = body + 0.6
+    small = body - 0.9
 
     st = {
-        'name': ParagraphStyle('name', fontName='Comfortaa-Bold', fontSize=20,
-                               leading=25, alignment=TA_CENTER, textColor=INK,
-                               spaceAfter=3),
-        'contact': ParagraphStyle('contact', fontName=BODY, fontSize=8.3,
-                                  leading=11, alignment=TA_CENTER,
-                                  textColor=GREY, spaceAfter=2),
-        'h2': ParagraphStyle('h2', fontName=HEAD, fontSize=body_size + 0.4,
-                             leading=(body_size + 0.4) * 1.2, textColor=SOFT,
-                             spaceBefore=head_before, spaceAfter=1.5),
-        'sub': ParagraphStyle('sub', fontName='Nunito-Bold',
-                              fontSize=body_size + 0.7,
-                              leading=(body_size + 0.7) * 1.2, textColor=INK,
-                              spaceBefore=head_before * 0.55, spaceAfter=0),
+        'name': ParagraphStyle('name', fontName='Comfortaa-Bold',
+                               fontSize=name_size, leading=name_size * 1.26,
+                               alignment=TA_CENTER, textColor=INK,
+                               spaceAfter=4),
+        'contact': ParagraphStyle('contact', fontName=BODY, fontSize=small,
+                                  leading=small * 1.3, alignment=TA_CENTER,
+                                  textColor=GREY, spaceAfter=0),
+        'h2': ParagraphStyle('h2', fontName=HEAD, fontSize=big,
+                             leading=big * 1.25, textColor=SOFT,
+                             spaceBefore=head_gap, spaceAfter=2.5),
+        'sub': ParagraphStyle('sub', fontName='Nunito-Bold', fontSize=big,
+                              leading=big * 1.25, textColor=INK,
+                              spaceBefore=entry_gap, spaceAfter=0.5),
         'date': ParagraphStyle('date', fontName='Nunito-Italic',
-                               fontSize=body_size - 0.6,
-                               leading=(body_size - 0.6) * 1.25,
-                               textColor=GREY, spaceAfter=space_after * 0.4),
-        'p': ParagraphStyle('p', fontName=BODY, fontSize=body_size,
-                            leading=lead, textColor=INK,
-                            spaceAfter=space_after),
-        'plt': ParagraphStyle('plt', fontName=BODY, fontSize=body_size,
-                              leading=lead, textColor=INK, spaceAfter=1.5),
-        'b': ParagraphStyle('b', fontName=BODY, fontSize=body_size,
-                            leading=lead, textColor=INK,
-                            leftIndent=15, bulletIndent=3,
-                            bulletFontName=BODY, bulletFontSize=body_size,
-                            spaceAfter=space_after * 0.35),
-        'sign': ParagraphStyle('sign', fontName='StyleScript', fontSize=21,
-                               leading=25, textColor=INK,
-                               spaceBefore=4, spaceAfter=0),
+                               fontSize=small, leading=small * 1.3,
+                               textColor=GREY, spaceAfter=bullet_gap * 1.1),
+        'p': ParagraphStyle('p', fontName=BODY, fontSize=body, leading=lead,
+                            textColor=INK, spaceAfter=para_gap),
+        'plt': ParagraphStyle('plt', fontName=BODY, fontSize=body,
+                              leading=lead, textColor=INK,
+                              spaceAfter=line_gap),
+        'b': ParagraphStyle('b', fontName=BODY, fontSize=body, leading=lead,
+                            textColor=INK, leftIndent=14, bulletIndent=2,
+                            bulletFontName=BODY, bulletFontSize=body,
+                            spaceAfter=bullet_gap),
+        'sign': ParagraphStyle('sign', fontName='StyleScript', fontSize=22,
+                               leading=26, textColor=INK,
+                               spaceBefore=5, spaceAfter=1),
     }
 
     flow = []
@@ -112,11 +127,11 @@ def build_pdf(lines, path, body_size=10, leading_mult=1.36, space_after=8,
             flow.append(Paragraph(_rich(text), st['name']))
         elif tag == 'CONTACT':
             flow.append(Paragraph(_rich(text), st['contact']))
-            flow.append(Spacer(1, 5))
+            flow.append(Spacer(1, 6))
         elif tag == 'H2':
             flow.append(Paragraph(_rich(text.upper()), st['h2']))
             flow.append(HRFlowable(width='100%', thickness=0.6, color=RULE,
-                                   spaceBefore=0, spaceAfter=space_after * 0.55))
+                                   spaceBefore=0, spaceAfter=head_gap * 0.42))
         elif tag == 'SUB':
             flow.append(Paragraph(_rich(text), st['sub']))
         elif tag == 'DATE':
