@@ -61,6 +61,15 @@ Today is **30 September 2026**.
 | [66777](applications/City-of-Toronto-Project-Manager-TW-Capital-Planning-Implementation-66777) | Project Manager TW | Toronto Water, Capital Planning & Implementation | 6 Oct | Weak. **Class G is a hard requirement.** 3 positions, PTM2. |
 | [65977](applications/City-of-Toronto-Project-Manager-Priority-Development-Review-65977) | Project Manager, Priority Development Review | Development Review | 15 Oct | **Moderate — best of this batch.** You review these applications every day. PTM3. |
 
+### Consulting firms
+
+| Posting | Firm | Closes | Worth your time? |
+|---|---|---|---|
+| [Senior Passenger Modelling Specialist](applications/WSP-Senior-Passenger-Modelling-Specialist-94275) (94275) | WSP | Not shown (posted 28 Aug) | **Moderate — best of these.** Agent-based simulation and Python match; 8+ years and pedestrian tools do not. $104,500–$143,900. |
+| [Aviation Planner – Airports](applications/Stantec-Aviation-Planner-Airports) | Stantec, Markham | Not shown | Weak, but the most realistic aviation role. A career pivot. |
+| [Senior Aviation Planner – Airports](applications/Stantec-Senior-Aviation-Planner-Airports) | Stantec, Toronto / Markham | Not shown | Weak. No aviation experience; top of range $104,800. |
+| [Senior Aviation Planner](applications/CIMA-Senior-Aviation-Planner-REF3026P) (REF3026P) | CIMA+, Mississauga | Not shown | Very weak. 12+ years of airport planning strongly preferred. |
+
 ## The gaps that keep blocking you
 
 Carried forward from the earlier set, because they have not changed:
