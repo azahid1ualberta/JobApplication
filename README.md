@@ -69,6 +69,8 @@ Today is **30 September 2026**.
 | [Project Manager – Transportation Engineering & Planning](applications/Stantec-Project-Manager-Transportation-Engineering-Planning-1007868) (1007868) | Stantec, Markham / Toronto | Not shown (posted 22 Sep) | **Moderate — best consulting fit.** Traffic impact studies, construction staging, Synchro/VISSIM/Python match; 8+ years and consulting PM/BD do not. $104,600–$157,000. |
 | [Aviation Planner – Airports](applications/Stantec-Aviation-Planner-Airports) | Stantec, Markham | Not shown | Weak, but the most realistic aviation role. A career pivot. |
 | [Senior Aviation Planner – Airports](applications/Stantec-Senior-Aviation-Planner-Airports) | Stantec, Toronto / Markham | Not shown | Weak. No aviation experience; top of range $104,800. |
+| [Airport Design Engineer](applications/Dillon-Airport-Design-Engineer) | Dillon, Oakville (hybrid) | Not shown | Weak. Airside civil design; P.Eng. or eligible required. $82,900–$132,900. |
+| [Civil Project Engineer – Aviation](applications/WSP-Civil-Project-Engineer-Aviation-85226) (85226) | WSP, Ontario | Not shown (posted Apr) | Weak. Airport design, AutoCAD/Civil 3D, P.Eng. or eligible. $81,900–$112,800. |
 | [Senior Aviation Planner](applications/CIMA-Senior-Aviation-Planner-REF3026P) (REF3026P) | CIMA+, Mississauga | Not shown | Very weak. 12+ years of airport planning strongly preferred. |
 
 ## The gaps that keep blocking you
