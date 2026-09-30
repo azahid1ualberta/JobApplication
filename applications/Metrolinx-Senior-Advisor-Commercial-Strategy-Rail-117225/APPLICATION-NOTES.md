@@ -39,9 +39,13 @@ cover letter's fourth paragraph says so directly, including that you have not ma
 
 - **Resume:** City bullets are reordered to lead with briefing notes, memos and presentations,
   then the dashboard and KPIs — the order the posting weights things. Metrolinx entry mentions
-  *equipment* alongside run times and schedule, which is the honest link to fleet.
-- **Cover letter:** spends two paragraphs on the communication and KPI match, then is clear that
-  the contract discipline would be new.
+  *equipment* alongside run times and schedule, which is the honest link to fleet, and includes
+  the **Crew Variance Tool** and the **command line workflow** as evidence for *"develops and
+  implements streamlined solutions for identified inefficiencies."*
+- **Formatting:** set at the original 9.3pt so the extra two bullets fit on one page.
+- **Cover letter:** spends two paragraphs on the communication and KPI match — the third now names
+  the Crew Variance Tool and the command line workflow — then is clear that the contract
+  discipline would be new.
 
 ## Before you apply
 

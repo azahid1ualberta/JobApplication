@@ -44,10 +44,15 @@ gaps, and says plainly which Acts you know in practice and which in general term
 
 - **Resume:** City bullets lead with reviewing development applications and their
   transportation studies, then the road and right-of-way datasets, then right-of-way capacity.
-  The summary names the Ontario Line construction staging work. Metrolinx entry is three
-  bullets; no Crew Variance Tool or command line workflow, as with every Metrolinx application.
+  The summary names the Ontario Line construction staging work. The Metrolinx entry includes
+  the **Crew Variance Tool** and the **command line workflow** that cut slow-order turnaround
+  from days to hours — this team is not the one you worked with, so there is no reason to hold
+  them back. The slow-order batching is directly relevant: construction on the Ontario Line is
+  exactly the kind of work that generates speed restrictions and closures to assess.
+- **Formatting:** set at 9.3pt with 0.55in side margins so the extra two bullets fit on one page.
 - **Cover letter:** opens on the two facts that make you stand out — municipal side of the
-  relationship, and Ontario Line experience. It says honestly that permits are not your own area.
+  relationship, and Ontario Line experience. Its third paragraph now names the command line
+  workflow and the Crew Variance Tool. It says honestly that permits are not your own area.
 
 ## Before you apply
 

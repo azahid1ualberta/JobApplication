@@ -42,7 +42,11 @@ METROLINX_CONTROLS = METROLINX_HEAD + [
     "and recovery before they were taken forward, using OpenTrack simulation of GO rail services.",
     "B: Worked through large operations datasets across subdivisions and set out where the evidence pointed "
     "for schedulers, operations staff and engineers.",
-    "B: Found ways to get scenario analysis through faster and more consistently as the volume of requests grew.",
+    "B: Found ways to get scenario analysis through faster and more consistently as the volume of requests "
+    "grew: a command line workflow pre-simulated temporary and permanent slow orders in batches, cutting "
+    "turnaround from days to hours.",
+    "B: Built the Crew Variance Tool, a Python application that read large JSON operations files and "
+    "produced summaries of speed profiles and run-time variance across subdivisions.",
 ]
 
 SKILLS_CONTROLS = [
@@ -81,7 +85,10 @@ COVER_116752 = letter(
         "the division reports from; most of that work was reconciling sources that did not agree and making "
         "the result reliable enough for management to decide from. At Metrolinx my work was establishing what "
         "proposed operating and infrastructure changes would do to service before they were taken forward, "
-        "which is a form of impact assessment.",
+        "which is a form of impact assessment. I also built the Crew Variance Tool, a Python application that "
+        "read large JSON operations files and summarised speed profiles and run-time variance across "
+        "subdivisions, and set up a command line workflow that pre-simulated slow orders in batches, cutting "
+        "turnaround on scenario requests from days to hours.",
 
         "I should be straightforward about where I fall short. I have not worked in project controls: I have "
         "not managed cost, schedule, risk or contingency baselines, challenged EACs, run change control or "
@@ -115,6 +122,10 @@ METROLINX_TRAFFIC = METROLINX_HEAD + [
     "construction on an operating railway imposes.",
     "B: Worked with schedulers, operations staff and engineers to settle the variables a service plan had to "
     "be built on.",
+    "B: Built the Crew Variance Tool, a Python application that read large JSON operations files and "
+    "produced summaries of speed profiles and run-time variance across subdivisions.",
+    "B: Set up a command line workflow so temporary and permanent slow orders could be pre-simulated in "
+    "batches, cutting turnaround on scenario requests from days to hours.",
 ]
 
 SKILLS_TRAFFIC = [
@@ -155,7 +166,10 @@ COVER_117364 = letter(
         "the memos and briefing notes that carry those issues to management. Working inside the City's "
         "transportation division means I understand the priorities a municipal road authority brings to these "
         "discussions, even though permits are not my own area. At Metrolinx in 2023 I saw the same question "
-        "from the railway's side, assessing what speed restrictions on an operating network would do to service.",
+        "from the railway's side, assessing what speed restrictions on an operating network would do to service. "
+        "To keep up with those requests I set up a command line workflow that pre-simulated slow orders in "
+        "batches, cutting turnaround from days to hours, and built the Crew Variance Tool, a Python application "
+        "that summarised speed profiles and run-time variance across subdivisions.",
 
         "I should be straightforward about the gaps. I have not obtained road occupancy or construction permits, "
         "prepared or reviewed Traffic Management Plans, or worked on a transit project through construction, "
@@ -189,6 +203,10 @@ METROLINX_COMMERCIAL = METROLINX_HEAD + [
     "settle what a service plan had to be built on.",
     "B: Analysed run-time and speed profile patterns across subdivisions to find where schedules were most "
     "exposed to variance.",
+    "B: Built the Crew Variance Tool, a Python application that read large JSON operations files and "
+    "produced summaries of speed profiles and run-time variance across subdivisions.",
+    "B: Set up a command line workflow so temporary and permanent slow orders could be pre-simulated in "
+    "batches, cutting turnaround on scenario requests from days to hours.",
 ]
 
 SKILLS_COMMERCIAL = [
@@ -227,7 +245,10 @@ COVER_117225 = letter(
         "from separate sources into one validated source the division reports from and replaced a report that "
         "was rebuilt by hand. At Metrolinx my work meant establishing what proposed operating changes would do "
         "to run times, equipment and schedule, which gave me some sense of how the fleet and operating sides "
-        "of a railway depend on each other.",
+        "of a railway depend on each other. I also worked on how that analysis was produced: I built the Crew "
+        "Variance Tool, a Python application that summarised speed profiles and run-time variance from large "
+        "operations files, and set up a command line workflow that cut turnaround on scenario requests from "
+        "days to hours.",
 
         "I should be clear about the commercial side. I have not administered commercial contracts, monitored "
         "contractor compliance, managed claims or developed negotiation mandates, and my knowledge of contract "

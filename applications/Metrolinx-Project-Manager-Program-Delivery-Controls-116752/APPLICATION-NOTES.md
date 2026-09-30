@@ -36,6 +36,11 @@ Two lines from the posting are genuinely yours, and the documents lean on them:
   — reviewing development applications and consultant studies against standards is
   constructive challenge in exactly this sense.
 
+- *"Identify ... lessons learned across projects"* and improving controls processes — the
+  **command line workflow** you set up to pre-simulate slow orders in batches cut turnaround from
+  days to hours, and the **Crew Variance Tool** turned large JSON operations files into
+  consistent summaries. Both are on the resume and in the letter's third paragraph.
+
 The cover letter's fourth paragraph lists every controls gap plainly. It does not pretend the
 analytical overlap makes you a controls professional.
 
