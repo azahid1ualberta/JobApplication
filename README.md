@@ -39,11 +39,12 @@ Each folder under `applications/` holds three files:
 
 ## Current applications
 
-Today is **29 September 2026**.
+Today is **30 September 2026**.
 
 | Job ID | Position | Team | Closes | Worth your time? |
 |---|---|---|---|---|
 | [117317](applications/Metrolinx-Rail-Simulation-Specialist-117317) | Rail Simulation Specialist | Metrolinx — Operations | **4 Oct, 11:59 PM** | **Yes — the closest match to your actual job title.** Permanent, $93,798–$127,484. No CROR, no supervision requirement. |
+| [117264](applications/Metrolinx-Manager-Rapid-Transit-Program-Delivery-117264) | Manager, Rapid Transit Program Delivery | Metrolinx — Capital Projects Group (RT) | **12 Oct, 12:00 AM** (so end of 11 Oct) | Stretch. 8 years minimum and staff/budget leadership; the Transit Oriented Community side matches your development review work. 12-month contract, $123,026–$168,886. |
 
 ## The gaps that keep blocking you
 
