@@ -66,6 +66,7 @@ Today is **30 September 2026**.
 | Posting | Firm | Closes | Worth your time? |
 |---|---|---|---|
 | [Senior Passenger Modelling Specialist](applications/WSP-Senior-Passenger-Modelling-Specialist-94275) (94275) | WSP | Not shown (posted 28 Aug) | **Moderate — best of these.** Agent-based simulation and Python match; 8+ years and pedestrian tools do not. $104,500–$143,900. |
+| [Project Manager – Transportation Engineering & Planning](applications/Stantec-Project-Manager-Transportation-Engineering-Planning-1007868) (1007868) | Stantec, Markham / Toronto | Not shown (posted 22 Sep) | **Moderate — best consulting fit.** Traffic impact studies, construction staging, Synchro/VISSIM/Python match; 8+ years and consulting PM/BD do not. $104,600–$157,000. |
 | [Aviation Planner – Airports](applications/Stantec-Aviation-Planner-Airports) | Stantec, Markham | Not shown | Weak, but the most realistic aviation role. A career pivot. |
 | [Senior Aviation Planner – Airports](applications/Stantec-Senior-Aviation-Planner-Airports) | Stantec, Toronto / Markham | Not shown | Weak. No aviation experience; top of range $104,800. |
 | [Senior Aviation Planner](applications/CIMA-Senior-Aviation-Planner-REF3026P) (REF3026P) | CIMA+, Mississauga | Not shown | Very weak. 12+ years of airport planning strongly preferred. |
