@@ -51,6 +51,16 @@ Today is **30 September 2026**.
 | [117202](applications/Metrolinx-Project-Manager-Lakeshore-West-Stations-Rehabilitation-117202) | Project Manager, Lakeshore West Existing Stations Rehabilitation | Metrolinx — Capital Projects Group (GO & UP) | **12 Oct, 12:00 AM** (so end of 11 Oct) | Weak. Construction delivery with staff supervision, procurement and budgets. 12-month contract, $93,798–$127,484. |
 | [117264](applications/Metrolinx-Manager-Rapid-Transit-Program-Delivery-117264) | Manager, Rapid Transit Program Delivery | Metrolinx — Capital Projects Group (RT) | **12 Oct, 12:00 AM** (so end of 11 Oct) | Stretch. 8 years minimum and staff/budget leadership; the Transit Oriented Community side matches your development review work. 12-month contract, $123,026–$168,886. |
 
+### City of Toronto
+
+| Job ID | Position | Division | Closes | Worth your time? |
+|---|---|---|---|---|
+| [64397](applications/City-of-Toronto-Senior-Project-Manager-TW-Water-Treatment-64397) | Senior Project Manager TW | Toronto Water, Water Treatment & Supply | **30 Sep — TODAY** | Very weak. Needs extensive water treatment experience. |
+| [67150](applications/City-of-Toronto-Project-Manager-Fleet-Safety-Operations-67150) | Project Manager, Fleet Safety Operations & CI | Fleet Services | **1 Oct** | Weak. Fleet safety, CVOR, telematics, staff; Class G required. |
+| [64483](applications/City-of-Toronto-Project-Manager-Business-Transformation-Parks-and-Recreation-64483) | Project Manager Business Transformation | Parks & Recreation, CPDD | 6 Oct | Moderate-to-weak. Automation and adoption match; Prosci/Lean Six Sigma and enterprise change do not. |
+| [66777](applications/City-of-Toronto-Project-Manager-TW-Capital-Planning-Implementation-66777) | Project Manager TW | Toronto Water, Capital Planning & Implementation | 6 Oct | Weak. **Class G is a hard requirement.** 3 positions, PTM2. |
+| [65977](applications/City-of-Toronto-Project-Manager-Priority-Development-Review-65977) | Project Manager, Priority Development Review | Development Review | 15 Oct | **Moderate — best of this batch.** You review these applications every day. PTM3. |
+
 ## The gaps that keep blocking you
 
 Carried forward from the earlier set, because they have not changed:
