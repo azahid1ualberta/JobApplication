@@ -89,9 +89,9 @@ SKILLS = [
 
 EDU = [
     "H2: Education",
-    "PLT: **MSc, Transportation Engineering** — University of Alberta, 2022",
-    "PLT: **BSc, Civil Engineering** — Bangladesh University of Engineering and Technology, 2018",
-    "PLT: **BSc, Computer Science** — University of British Columbia, in progress (2025–2027)",
+    "P: **MSc, Transportation Engineering** — University of Alberta, 2022",
+    "P: **BSc, Civil Engineering** — Bangladesh University of Engineering and Technology, 2018",
+    "P: **BSc, Computer Science** — University of British Columbia, in progress (2025–2027)",
 ]
 
 

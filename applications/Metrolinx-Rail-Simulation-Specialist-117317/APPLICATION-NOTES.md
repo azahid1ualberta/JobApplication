@@ -66,22 +66,6 @@ the budget point, which is one clause in a long list of duties rather than a qua
 experience doesn't quite align with every qualification of this posting, we encourage you to
 apply."* On a one-year-versus-several-years gap, that sentence is worth taking at face value.
 
-## Note on the resume — two things came out
-
-To get the page properly spaced rather than crammed, the resume is shorter than
-the earlier drafts. Two cuts:
-
-- **The City "review development applications and engineering studies" bullet.** It is the
-  least relevant of your City duties to a rail simulation role, and the cover letter's fourth
-  paragraph still makes the point.
-- **The second UofA bullet** ("wrote up results for readers without a modelling background"),
-  folded into the first. The City entry already demonstrates that.
-
-If you would rather keep everything, say so — but it costs either a second page or a smaller
-typeface. Four jobs, a summary, a skills block and three degrees is genuinely more than one
-well-set page holds. A two-page resume is entirely normal for a technical role and I can
-produce one in a minute if you prefer it.
-
 ## Note on tone
 
 Same restraint as the Timetabling Specialist documents: neither the Crew Variance Tool nor the
