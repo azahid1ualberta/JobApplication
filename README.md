@@ -71,6 +71,7 @@ Today is **30 September 2026**.
 | [Senior Aviation Planner – Airports](applications/Stantec-Senior-Aviation-Planner-Airports) | Stantec, Toronto / Markham | Not shown | Weak. No aviation experience; top of range $104,800. |
 | [Airport Design Engineer](applications/Dillon-Airport-Design-Engineer) | Dillon, Oakville (hybrid) | Not shown | Weak. Airside civil design; P.Eng. or eligible required. $82,900–$132,900. |
 | [Civil Project Engineer – Aviation](applications/WSP-Civil-Project-Engineer-Aviation-85226) (85226) | WSP, Ontario | Not shown (posted Apr) | Weak. Airport design, AutoCAD/Civil 3D, P.Eng. or eligible. $81,900–$112,800. |
+| [Aviation Project Manager](applications/Stantec-Aviation-Project-Manager-1006666) (1006666) | Stantec, **Calgary / Vancouver** | Not shown (posted Jul) | Very weak. 7+ years airport engineering, P.Eng. BC/AB, out of province. $111,700–$177,100. |
 | [Senior Aviation Planner](applications/CIMA-Senior-Aviation-Planner-REF3026P) (REF3026P) | CIMA+, Mississauga | Not shown | Very weak. 12+ years of airport planning strongly preferred. |
 
 ## The gaps that keep blocking you
