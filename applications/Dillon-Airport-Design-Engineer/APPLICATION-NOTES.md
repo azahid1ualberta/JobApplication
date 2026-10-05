@@ -20,7 +20,7 @@ AviPLAN, to ICAO and FAA standards. Your background is transportation planning a
 | **P.Eng. or eligible to register** | Not registered with PEO. The letter says so plainly. Whether you are *eligible* depends on PEO assessing your BUET degree — worth finding out, since it keeps coming up. |
 | Civil engineering degree | ✅ |
 | **5+ years in airport engineering, civil design or site development** | No. |
-| AutoCAD, MicroStation, AviPLAN, SkySafe, AutoTURN | None (nice-to-haves) |
+| AutoCAD, MicroStation, AviPLAN, SkySafe, AutoTURN | AutoCAD yes (and Civil 3D); the others no — all nice-to-haves |
 | Infrastructure through design and construction; budgets | No |
 
 What transfers: coordinating scope, schedule and open items with consultants, reviewing

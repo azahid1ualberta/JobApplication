@@ -19,7 +19,7 @@ RESUME_CIVIL = resume(
     + metrolinx(OPENTRACK, SLOW, CVT, CLI) + MOTT + UOFA,
     skills=skills("Review of engineering submissions, drawings and specifications. Project coordination, "
                   "scheduling and follow-through. Traffic and rail modelling: VISSIM, Synchro, MATSim and "
-                  "OpenTrack. Python (Pandas, NumPy) and SQL. ArcGIS and QGIS. Technical reports and "
+                  "OpenTrack. AutoCAD and Civil 3D. Python (Pandas, NumPy) and SQL. ArcGIS and QGIS. Technical reports and "
                   "presentations. MS Office."))
 
 
@@ -47,8 +47,8 @@ COVER_DILLON = letter(
 
         "The gaps are significant. I am not a licensed Professional Engineer and have not registered with PEO. "
         "I do not have five years in airport engineering, civil design or site development; I have not done "
-        "airside design or airfield pavement work, applied ICAO or FAA standards, or used AutoCAD, MicroStation, "
-        "AviPLAN, SkySafe or AutoTURN; and I have not managed budgets or taken infrastructure through "
+        "airside design or airfield pavement work, applied ICAO or FAA standards, or used MicroStation, AviPLAN, "
+        "SkySafe or AutoTURN, though I have worked in AutoCAD and Civil 3D; and I have not managed budgets or taken infrastructure through "
         "construction. If Dillon's airport team has a junior or intermediate role where I could build that "
         "experience, I would welcome being considered for it.",
 
@@ -79,7 +79,8 @@ COVER_WSP_AVIATION = letter(
         "The gaps are real. I am not a licensed Professional Engineer and have not registered with PEO. I have "
         "closer to four years of engineering experience in Canada than five, none of it in aviation. I have not "
         "designed airport infrastructure, worked to TP312, ICAO or FAA standards, prepared quantity take-offs or "
-        "cost estimates, carried out construction field reviews, or used AutoCAD or Civil 3D. I am applying "
+        "cost estimates, or carried out construction field reviews; I have worked in AutoCAD and Civil 3D, but "
+        "not on airport design. I am applying "
         "because the review and coordination side of the role is familiar, and I would welcome being considered "
         "at a more junior level if that would suit the team better.",
 

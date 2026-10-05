@@ -94,7 +94,8 @@ RESUME_AVIATION = resume(
     city(TTS, DEV_STUDIES, REPORTS, AGENCIES, DASHBOARD)
     + metrolinx(OPENTRACK, CVT, CLI, SCHED) + MOTT + UOFA,
     skills=skills("Transportation capacity and demand analysis. Traffic and rail simulation: VISSIM, Synchro, "
-                  "MATSim and OpenTrack. Python (Pandas, NumPy), SQL and advanced Excel. ArcGIS and QGIS. "
+                  "MATSim and OpenTrack. Python (Pandas, NumPy), SQL and advanced Excel. ArcGIS and QGIS. AutoCAD and "
+                  "Civil 3D. "
                   "Dashboards and data visualization. Technical reports, memoranda and presentations. MS Office."))
 
 LANDSIDE = (
@@ -124,7 +125,8 @@ COVER_STANTEC_SENIOR = letter(
         "once, then spend the time on what the results mean.",
 
         "The gaps are real. I have no airport planning experience: I have not prepared airport master plans or "
-        "airfield and terminal concept plans, and I have not used AutoCAD Civil 3D or Aviplan. I have not "
+        "airfield and terminal concept plans, and I have not used Aviplan, though I have worked in AutoCAD and "
+        "Civil 3D. I have not "
         "managed consulting projects or supported pursuits. A senior role expects aviation experience I do not "
         "yet have, so I would also welcome being considered for the Aviation Planner position the team has "
         "posted, where I could build that experience.",
@@ -147,8 +149,8 @@ COVER_STANTEC = letter(
         TOOLS_SENTENCE + " I am comfortable learning new software quickly, which I expect would matter here.",
 
         "I should be straightforward about the gaps. I have no airport planning experience and have not "
-        "prepared development or concept plans for airfields or terminals. I have not used AutoCAD Civil 3D, "
-        "Aviplan, Adobe Suite or Bluebeam Revu, and I would be learning the applicable aviation standards and "
+        "prepared development or concept plans for airfields or terminals. I have worked in AutoCAD, Civil 3D "
+        "and Adobe Photoshop and Illustrator, but not in Aviplan or Bluebeam Revu, and I would be learning the applicable aviation standards and "
         "regulations. What I would bring from the start is the transportation analysis, the simulation "
         "background and the report writing.",
 
@@ -180,8 +182,8 @@ COVER_CIMA = letter(
 
         "The gaps are significant. The posting strongly prefers twelve or more years of airport planning "
         "experience, and I have none: I have not prepared airport master plans, airfield or terminal "
-        "configurations, aeronautical impact evaluations or air service studies, and I have not used AutoCAD, "
-        "Civil 3D, CAST or AviPlan. If the team has an intermediate planning role, I would welcome being "
+        "configurations, aeronautical impact evaluations or air service studies, and I have not used CAST or "
+        "AviPlan, though I have worked in AutoCAD and Civil 3D. If the team has an intermediate planning role, I would welcome being "
         "considered for it.",
 
         "Thank you for considering my application.",

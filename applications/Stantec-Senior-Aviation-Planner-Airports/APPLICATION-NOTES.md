@@ -12,7 +12,7 @@
 A senior airport planning role, and you have no aviation experience. What transfers is the
 **landside**: the posting includes ground transportation facilities and commercial land
 development at airports, which is transportation planning and development review. The letter
-builds on that, names the gaps (master plans, airfield and terminal concepts, AutoCAD Civil 3D,
+builds on that, names the gaps (master plans, airfield and terminal concepts,
 Aviplan, consulting project management), and asks to be considered for the **Aviation Planner**
 role Stantec has also posted — which is the more realistic target.
 

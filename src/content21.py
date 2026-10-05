@@ -13,7 +13,7 @@ RESUME_1007868 = resume(
     "results into recommendations.",
     city(DEV_STUDIES, TTS, REPORTS, AGENCIES, DASHBOARD)
     + metrolinx(OPENTRACK, SLOW, CVT, CLI) + MOTT + UOFA,
-    skills=skills("Synchro, VISSIM, MATSim and OpenTrack. ArcGIS and QGIS. Python (Pandas, NumPy) and SQL. "
+    skills=skills("Synchro, VISSIM, MATSim and OpenTrack. ArcGIS and QGIS. AutoCAD and Civil 3D. Python (Pandas, NumPy) and SQL. "
                   "Review of traffic impact and transportation studies against Ontario municipal standards. "
                   "Technical reports, memoranda and presentations. MS Office (Word, Excel, PowerPoint, Teams)."))
 

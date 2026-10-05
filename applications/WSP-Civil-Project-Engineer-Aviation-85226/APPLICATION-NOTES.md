@@ -18,7 +18,7 @@ quantity take-offs, cost estimates and construction field reviews.
 | **P.Eng. or eligible for registration in Ontario** | Not registered — the letter says so |
 | **5+ years of engineering experience in Canada** | Closer to four (Jan 2023 onward), none in aviation |
 | TP312 5th Edition, ICAO, FAA (asset) | No |
-| **AutoCAD, Civil 3D** | No — listed as a proficiency, not an asset |
+| **AutoCAD, Civil 3D** | ✅ Both on your April resume — the letter now says so, though not on airport work |
 | Project scheduling or modelling tools (advantage) | ✅ VISSIM, Synchro, MATSim, OpenTrack |
 
 The letter leads with specification and drawing review, stakeholder liaison and the modelling

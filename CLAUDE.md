@@ -52,20 +52,33 @@ Do not push to GitHub unless he asks (he asked for zips instead, October 2026).
 
 ## His facts (do not go beyond these)
 
-- **Assistant Planner, Transportation Planning, City of Toronto** — Jan 2024–present. Reviews
-  development applications and their transportation studies against City standards and
-  Official Plan policy; road and right-of-way datasets (GIS, Python); Transportation Data
-  Dashboard (several years of data, one validated source); briefing notes, memos; coordination
-  with divisions, consultants, applicants, agencies; runs assigned projects end to end.
+**Master source: `job-search/Resume_Content.md`** (carried over from the previous automation,
+built from his own April 2026 resume). Nothing outside that file may appear on a resume or
+letter. Key points:
+
+- **Assistant Planner, Transportation Planning, City of Toronto** — Jan 2024–present.
+  Development applications and their transportation studies; TTS analysis; Transportation Data
+  Dashboard (2006/2011/2016 TTS, one validated source); road and right-of-way datasets incl. a
+  ROW-width dataset for all city roads (QGIS, MapBox, JavaScript); briefing notes; advising on
+  by-laws and regulations.
 - **Transportation Planner, Simulation and Modelling, Metrolinx Service Design** — Feb 2023–Jan
-  2024. OpenTrack simulation of GO rail; slow-order assessment; run-time variance analysis;
-  the two tools above.
+  2024. OpenTrack; slow-order assessment; the two tools above.
 - **Graduate Transportation Planner, Mott MacDonald** — Jan–Feb 2023. Ontario Line construction
-  staging traffic simulation.
-- **Graduate Research Assistant, University of Alberta** — 2020–2022. Evacuation network
-  modelling with LWR and MATSim.
-- **Education:** MSc Transportation Engineering (UAlberta, 2022); BSc Civil Engineering (BUET,
-  2018); BSc Computer Science (UBC, in progress 2025–2027).
+  staging and road-closure traffic simulation **in Synchro**.
+- **Graduate Research Assistant, University of Alberta** — 2020–2022. Evacuation modelling
+  (LWR, MATSim); GIS analysis for wildfire evacuation plans.
+- **Education:** MSc Transportation Engineering (UAlberta, 2022, CGPA 4.0/4.0); BSc Civil
+  Engineering (BUET, 2018, CGPA 3.69/4.0); BSc Computer Science (UBC, part-time, 2025–2027).
+- **Tools he has:** OpenTrack, TrainPlan, VISSIM, Synchro, MATSim; Python, SQL, JavaScript;
+  ArcGIS Pro, QGIS, MapBox; **AutoCAD, Civil 3D**; Excel; Adobe Photoshop/Illustrator, Blender.
+  (An earlier version of this file wrongly listed AutoCAD/Civil 3D as gaps — corrected Oct 2026.)
+- **Awards and publications** are in `Resume_Content.md`; include only when there is room.
 - **Does not have:** P.Eng. or EIT (not registered with PEO), Class G licence, PMP, CROR, staff
-  supervision, budget management, procurement/contract administration, Power BI, R, VBA,
-  AutoCAD/Civil 3D.
+  supervision, budget management, procurement/contract administration, Power BI, R, VBA.
+
+## Daily job search (carried over from the previous automation)
+
+- Search rules: `job-search/criteria.md` — Planner grade is the **floor**; skip Assistant,
+  Junior, EIT, Technician, "Analyst 1" titles; judge the work, not the title.
+- De-duplicate against `job-search/seen_jobs.txt`; append each new posting URL.
+- Tracker: `job-search/Job_Tracker.xlsx`, same 14 columns as the old one.
