@@ -23,3 +23,4 @@
 ## Failures in this run
 - `python` here is 3.11 without the pip packages; used `/usr/bin/python3` instead.
 - Drive connector has no update-in-place tool: updated Job Tracker.xlsx and seen_jobs.txt are uploaded as new copies in the dated folder.
+- Drive upload: only text files (notes, this summary) were uploaded. The binary files (resume, cover letter and job-description PDFs, Job Tracker.xlsx) were NOT uploaded to Drive because the connector accepts them only as inline base64 (60–80 KB each), which was not practical. They are in GitHub on branch claude/tailored-resume-cover-letters-t2n8vx (applications/Halton-Region-Project-Manager-II-Transportation-Planning-5507/ and job-search/Job_Tracker.xlsx). The Drive copy of Job Tracker.xlsx is therefore one run behind.
