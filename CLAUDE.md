@@ -80,47 +80,78 @@ letter. Key points:
 ## Daily job search — runs every day at ~11 AM Toronto time
 
 Approved by him on 5 October 2026: cost OK, results to Google Drive as dated folders, push to
-GitHub. Each run is a fresh session; this file is the whole procedure.
+GitHub. Each run is a fresh session; this file is the whole procedure. A good run reads dozens
+of candidates and builds up to 15 applications. Do not stop early: work through every candidate
+the finder lists before writing the summary.
 
 **Drive (Google Drive connector; folder owned by packplug.review@gmail.com, writable):**
 
 | What | Drive ID |
 |---|---|
 | `Applications` folder — create one subfolder per run named `YYYY-MM-DD` | `1noa0PTUzD__Gc0BN2JN60cD-GmlzX6SE` |
-| `Job Tracker.xlsx` — **update this file in place** each run | `1dnINTddvyJzyCT15cS0EnhWJoxl5IiLR` |
 | `criteria.md` — **download fresh each run**; he edits it in Drive | `13dQfEXijktFf8tHnTW0tkgJlrpJPQPsb` |
-| `seen_jobs.txt` — update in place each run | `1OFPc9dUbkXHMliWCAP02O7amQkg09hu8` |
 | `Resume_Content.md` — his facts; download fresh each run | `124FiwrAmVrkeNAcDGCWYIf3FIlPsPbaJ` |
+| `Job Tracker.xlsx` and `seen_jobs.txt` — the previous automation's copies; do not touch | `1dnINTddvyJzyCT15cS0EnhWJoxl5IiLR`, `1OFPc9dUbkXHMliWCAP02O7amQkg09hu8` |
 
-Public download also works without the connector:
-`https://drive.google.com/uc?export=download&id=<ID>`.
+Download without the connector: `curl -sSL -o FILE 'https://drive.google.com/uc?export=download&id=<ID>'`.
+
+**What the Drive connector can do** (learned on the 5–8 October runs): `create_file` uploads
+text through `textContent`, and binaries only through `base64Content`, which you would have to
+type out in full. No tool replaces an existing file's content; `update_file` only renames or
+moves. So upload text files only. The resume and cover letter PDFs and the tracker stay in
+GitHub, and the run summary links to them. Do not try to push a PDF through `base64Content`.
 
 **Procedure:**
 
-1. Setup: `pip install reportlab fonttools pymupdf openpyxl`; `python src/fetch_fonts.py` if
-   `src/fonts/` is empty. Download `criteria.md` and `Resume_Content.md` from Drive into
-   `job-search/` (Drive is the source of truth — he edits them there).
-2. Search per `criteria.md`: priority employers first (City of Toronto `jobs.toronto.ca`,
-   TTC, Peel, York, Durham, Mississauga, Brampton, Metrolinx, the consultancies), then
-   WebSearch. Metrolinx's portal and Indeed/WSP block automated reads — use mirrors (Glassdoor,
-   LinkedIn public pages, aggregators) and say so. **Never** log in anywhere.
-3. Skip anything whose URL is already seen (`python job-search/tracker.py seen URL`), anything
-   expired or unverifiable, and every title the criteria list as a downgrade. Aim for the
-   strongest 10–15. Never fabricate a posting.
-4. For each job: save the posting text as `Job Description - <Company> - <Role>.pdf`; write
-   `src/content<N>.py` following the existing ones; build resume + letter with `fit()`; write
-   `APPLICATION-NOTES.md`. All writing rules above apply — gaps paragraph, no invented facts,
-   Crew Variance Tool and command line workflow (except his old Metrolinx team).
+1. Setup: `python3 -m pip install -q reportlab fonttools pymupdf openpyxl`, then use `python3`
+   for everything; plain `python` can be a different interpreter without these packages.
+   `python3 src/fetch_fonts.py` if `src/fonts/` is empty. Download `criteria.md` and
+   `Resume_Content.md` from Drive into `job-search/`. If they differ from the repo copies, his
+   Drive edits win; note what changed in the run summary.
+2. Search: run `python3 job-search/find_jobs.py` (about two minutes). It reads every City of
+   Toronto opening and LinkedIn's public job search (no login) for the past 7 days, across
+   Ontario and Canada. It drops what is already seen, skipped, tracked or built, and the
+   downgrade titles. Work through its whole candidate table. Then cover what it does not: TTC,
+   Peel, York, Durham, Mississauga, Brampton and the consultancies' own career pages, and
+   WebSearch, as `criteria.md` asks. Metrolinx's portal, Indeed, Glassdoor, careerbeacon and
+   municipalworld block automated reads; most of their postings are on LinkedIn too.
+   **Never** log in anywhere.
+3. Judge each candidate on the work, per `criteria.md`. Read the posting with
+   `python3 job-search/find_jobs.py show URL`. **Location is not a reason to skip.** The criteria
+   say any location, Canada first, so a Calgary or Vancouver role is in scope. Flag the location
+   in the notes, and never say in a letter that he would relocate. Skip anything expired or
+   unverifiable and every downgrade title. When you read a posting and decide against it, run
+   `python3 job-search/tracker.py skip URL <one-line reason>` so it does not come back. Aim for
+   the strongest 10–15. Never fabricate a posting.
+4. For each job, in `applications/<Org>-<Role>-<JobID>/`:
+   - save the posting with
+     `python3 job-search/find_jobs.py show URL --pdf "<folder>/Job Description - <Company> - <Role>.pdf"`;
+   - write `src/content<N>.py` following the existing ones;
+   - build the resume and letter with `fit()`;
+   - write `APPLICATION-NOTES.md`.
+
+   All writing rules above apply: gaps paragraph, no invented facts, Crew Variance Tool and
+   command line workflow (except for his old Metrolinx team). Commit and push after each
+   application, so a run cut short (the 9 October run hit the account's usage limit) keeps what
+   it built.
 5. Check every PDF is one page and render a sample to PNG to eyeball it.
-6. Tracker: add one row per job with `python job-search/tracker.py add row.json` (14 columns;
-   Status `New`; "Why It Matches" = 2–4 plain sentences ending with honest flags). This also
-   appends to `seen_jobs.txt`.
-7. Drive: create folder `YYYY-MM-DD` under `Applications`; upload per job
-   `Resume - <Company> - <Role>.pdf`, `Cover Letter - <Company> - <Role>.pdf`,
-   `Job Description - <Company> - <Role>.pdf`, `Notes - <Company> - <Role>.md`
-   (`disableConversionToGoogleType: true` for all). Update `Job Tracker.xlsx` and
-   `seen_jobs.txt` in place. Add `Run Summary - YYYY-MM-DD.md`: jobs found (title, company,
-   closing date, verdict), and **every source that could not be read** — an unreadable source
-   is a finding, never a silence.
-8. GitHub: `git add -A`, commit, push to `claude/tailored-resume-cover-letters-t2n8vx`.
+6. Tracker: add one row per job with `python3 job-search/tracker.py add row.json`.
+   - 14 columns; Status `New`.
+   - "Resume File" and "Cover Letter File" hold the GitHub links from step 7.
+   - "Why It Matches" is 2–4 plain sentences ending with honest flags.
+
+   This also appends to `seen_jobs.txt`.
+7. Drive: create folder `YYYY-MM-DD` under `Applications`. Upload as text, all with
+   `disableConversionToGoogleType: true`:
+   - per job, `Notes - <Company> - <Role>.md` (the notes file);
+   - per job, `Job Description - <Company> - <Role>.md` (the `show` output);
+   - `Run Summary - YYYY-MM-DD.md`, which lists:
+     - each job found, with title, company, closing date and verdict;
+     - links to its resume and cover letter, in the form
+       `https://github.com/azahid1ualberta/JobApplication/blob/claude/tailored-resume-cover-letters-t2n8vx/applications/<folder>/Abdullah_Al_Zahid_Resume.pdf`;
+     - a link to `job-search/Job_Tracker.xlsx`;
+     - **every source that could not be read**. An unreadable source is a finding, never a
+       silence.
+8. GitHub: `git add -A` (this includes `job-search/shown_jobs.txt`, the finder's memory). Commit
+   and push to `claude/tailored-resume-cover-letters-t2n8vx`.
 9. If nothing qualifies, still write the run summary saying so and which sources were checked.
