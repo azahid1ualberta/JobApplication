@@ -4,7 +4,7 @@
 |---|---|
 | **Division** | Transit Planning (reports to Program Manager, Transit Planning) |
 | **Location** | Richmond Hill, ON |
-| **Type** | Full-time; Not stated |
+| **Type** | Full-time; work arrangement not stated |
 | **Pay range** | Not listed on LinkedIn copy |
 | **Posted** | 9 Oct 2026 (LinkedIn "1 day ago") |
 | **Closes** | Not shown |
@@ -31,7 +31,6 @@ Resume leads with the City role and Metrolinx service-planning work. Letter says
 
 ## Before you apply
 - Pay and closing date are not on the LinkedIn copy; check York Region's careers site.
-- York is a different employer from where you work now; York Region posts on its own portal, so apply there.
 - Read through LinkedIn's public copy of the posting; confirm details on the employer's own site.
 
 ## Priority: Medium-high

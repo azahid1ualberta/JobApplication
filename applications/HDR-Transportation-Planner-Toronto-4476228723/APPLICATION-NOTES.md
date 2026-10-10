@@ -4,7 +4,7 @@
 |---|---|
 | **Division** | Transportation Business Group (LinkedIn listing; same posting also listed for Burlington, Richmond Hill, Calgary, Vancouver) |
 | **Location** | Toronto, ON |
-| **Type** | Full-time; Not stated (hybrid typical) |
+| **Type** | Full-time; work arrangement not stated |
 | **Pay range** | Not listed |
 | **Posted** | 9 Oct 2026 (LinkedIn "1 day ago") |
 | **Closes** | Not shown |
