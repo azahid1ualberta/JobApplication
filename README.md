@@ -125,3 +125,6 @@ single line. Say the word if you want it on the name and I will switch it.
 Everything comes from your existing resume. Nothing is invented, and where a posting asks for
 something you do not have, the cover letter says so plainly rather than talking around it. The
 notes file for each job spells out where you stand.
+| [Project Manager, Adjacent Construction Review](applications/Metrolinx-Project-Manager-Adjacent-Construction-Review-4475706583) | Metrolinx, Toronto | Not shown | **Best fit of the 10 Oct run.** Development application review near transit corridors; $93,798–$127,484. Asks RPP/PMP, Class G, CROR, supervision, none held; letter says so. |
+| [Service Planner](applications/York-Region-Service-Planner-4476289029) | York Region, Richmond Hill | Not shown | Full-grade transit service planner; he meets the 2-year minimum. Rail not bus, no scheduling software or ridership data; letter says so. |
+| [Transportation Planner (Toronto)](applications/HDR-Transportation-Planner-Toronto-4476228723) | HDR, Toronto | Not shown | Consultancy planner role at the floor of his band (1–2 years preferred); pay not listed. No Class EA, EMME/VISUM; letter says so. |

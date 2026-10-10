@@ -100,3 +100,26 @@ https://ca.indeed.com/viewjob?jk=2804300edf1e550b
 https://ca.linkedin.com/jobs/view/transportation-planner-at-stantec-4470239150
 https://ca.linkedin.com/jobs/view/senior-advisor-strategy-planning-partnerships-at-metrolinx-4474643136
 https://careers.halton.ca/job/10-Halton-Regional-Centre-Project-Manager-II-Transportation-Planning-10/606532317/
+https://ca.linkedin.com/jobs/view/4476864368  # skipped 2026-10-10: Metrolinx Senior Advisor SSE: project delivery/board-submission support, not planning
+https://ca.linkedin.com/jobs/view/4474290352  # skipped 2026-10-10: GHD Sr Transportation Planner/Traffic Engineer: P.Eng or EIT required, 8-10 yrs
+https://ca.linkedin.com/jobs/view/4475888638  # skipped 2026-10-10: Jacobs Environmental Planner Transportation: 5+ yrs Ontario EA permitting, none held
+https://ca.linkedin.com/jobs/view/4440852368  # skipped 2026-10-10: Arup Senior ITS Engineer: P.Eng and 10 yrs ITS
+https://ca.linkedin.com/jobs/view/4475401769  # skipped 2026-10-10: Brampton Analyst Transit: finance/budget role
+https://ca.linkedin.com/jobs/view/4474458932  # skipped 2026-10-10: Mississauga Planner: parkland development planning, RPP and 5 yrs
+https://ca.linkedin.com/jobs/view/4465202921  # skipped 2026-10-10: Arcadis Transportation Engineer: P.Eng, 8+ yrs, traffic staging design
+https://ca.linkedin.com/jobs/view/4474401845  # skipped 2026-10-10: Associated Engineering: 15+ yrs, APEGA P.Eng, highway design
+https://jobs.toronto.ca/jobsatcity/job/Toronto-Spatial-Specialist-%28Productivity-and-Automation-Specialist%29-ON-M5V-3C6/606816817/  # skipped 2026-10-10: Enterprise GIS/IT role (FME, Arcade, Airflow), 12-month temp, not transportation
+https://ca.linkedin.com/jobs/view/4477806855  # skipped 2026-10-10: Ontario Northland Manager Train Service: train operations management
+https://ca.linkedin.com/jobs/view/4362034380  # skipped 2026-10-10: Burnside Sr Transit PM: 15+ yrs, P.Eng 7 yrs
+https://ca.linkedin.com/jobs/view/4474965029  # skipped 2026-10-10: Calgary Traffic Engineer: APEGA P.Eng required, temporary traffic control
+https://ca.linkedin.com/jobs/view/4474600223  # skipped 2026-10-10: Pearson Aviation Forecasting Analyst: commercial/airline analytics
+https://ca.linkedin.com/jobs/view/4450679013  # skipped 2026-10-10: Mott MacDonald PM: 5-10 yrs infrastructure project management, advisory
+https://ca.linkedin.com/jobs/view/4429033181  # skipped 2026-10-10: WSP Aviation Planner: 7-10 yrs aviation planning
+https://ca.linkedin.com/jobs/view/4475829299  # skipped 2026-10-10: Newmarket Sr Planner Development: development planning, RPP
+https://ca.linkedin.com/jobs/view/4476245061  # skipped 2026-10-10: HDR Transportation Planner other location; same posting built from Toronto listing 4476228723
+https://ca.linkedin.com/jobs/view/4476240311  # skipped 2026-10-10: HDR Transportation Planner other location; same posting built from Toronto listing 4476228723
+https://ca.linkedin.com/jobs/view/4476229694  # skipped 2026-10-10: HDR Transportation Planner other location; same posting built from Toronto listing 4476228723
+https://ca.linkedin.com/jobs/view/4476224833  # skipped 2026-10-10: HDR Transportation Planner other location; same posting built from Toronto listing 4476228723
+https://ca.linkedin.com/jobs/view/4476228723
+https://ca.linkedin.com/jobs/view/4476289029
+https://ca.linkedin.com/jobs/view/4475706583
