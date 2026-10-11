@@ -123,3 +123,17 @@ https://ca.linkedin.com/jobs/view/4476224833  # skipped 2026-10-10: HDR Transpor
 https://ca.linkedin.com/jobs/view/4476228723
 https://ca.linkedin.com/jobs/view/4476289029
 https://ca.linkedin.com/jobs/view/4475706583
+https://ca.linkedin.com/jobs/view/4441354479  # skipped 2026-10-11: GHD Project Manager Rail Toronto: P.Eng required, 5-10 yrs rail PM, contract administration
+https://ca.linkedin.com/jobs/view/4441357268  # skipped 2026-10-11: GHD Project Manager Rail Whitby: same as Toronto posting; P.Eng, 5-10 yrs PM
+https://ca.linkedin.com/jobs/view/4450674183  # skipped 2026-10-11: Mott MacDonald Senior PM: multi-sector project management, contract administration, Vancouver office
+https://ca.linkedin.com/jobs/view/4450664381  # skipped 2026-10-11: Mott MacDonald Senior PM Calgary: multi-sector project management
+https://ca.linkedin.com/jobs/view/4459439388  # skipped 2026-10-11: Hatch Freight Rail Lead: senior leadership of freight rail engineering delivery
+https://ca.linkedin.com/jobs/view/4469212866  # skipped 2026-10-11: RVA Sr Project Engineer: road design, P.Eng, 15+ yrs
+https://ca.linkedin.com/jobs/view/4469219275  # skipped 2026-10-11: RVA Sr Project Engineer Barrie: road design, P.Eng, 15+ yrs
+https://ca.linkedin.com/jobs/view/4460539746  # skipped 2026-10-11: Lyft Data Science Airports: product data science, not transportation planning
+https://ca.linkedin.com/jobs/view/4460514141  # skipped 2026-10-11: Deloitte Manager Economic and Policy Advisory: workforce development consulting
+https://ca.linkedin.com/jobs/view/4478318815  # skipped 2026-10-11: Judged from title/field: engineering design, defence modelling, strategy or finance; not planner-grade transportation planning
+https://ca.linkedin.com/jobs/view/4478069914  # skipped 2026-10-11: Judged from title/field: engineering design, defence modelling, strategy or finance; not planner-grade transportation planning
+https://ca.linkedin.com/jobs/view/4404914735  # skipped 2026-10-11: Judged from title/field: engineering design, defence modelling, strategy or finance; not planner-grade transportation planning
+https://ca.linkedin.com/jobs/view/4474864333  # skipped 2026-10-11: Judged from title/field: engineering design, defence modelling, strategy or finance; not planner-grade transportation planning
+https://ca.linkedin.com/jobs/view/4418293193  # skipped 2026-10-11: Judged from title/field: engineering design, defence modelling, strategy or finance; not planner-grade transportation planning
