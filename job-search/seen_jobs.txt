@@ -137,3 +137,13 @@ https://ca.linkedin.com/jobs/view/4478069914  # skipped 2026-10-11: Judged from 
 https://ca.linkedin.com/jobs/view/4404914735  # skipped 2026-10-11: Judged from title/field: engineering design, defence modelling, strategy or finance; not planner-grade transportation planning
 https://ca.linkedin.com/jobs/view/4474864333  # skipped 2026-10-11: Judged from title/field: engineering design, defence modelling, strategy or finance; not planner-grade transportation planning
 https://ca.linkedin.com/jobs/view/4418293193  # skipped 2026-10-11: Judged from title/field: engineering design, defence modelling, strategy or finance; not planner-grade transportation planning
+https://ca.linkedin.com/jobs/view/4441363148  # skipped 2026-10-12: GHD Project Manager Rail: hard P.Eng, 5-10 yrs rail PM, contract admin, team leadership
+https://ca.linkedin.com/jobs/view/4326787125  # skipped 2026-10-12: Burnside VP Transportation: 15+ years, business development, P.Eng preferred
+https://ca.linkedin.com/jobs/view/4459410364  # skipped 2026-10-12: Purolator logistics network analytics: Power BI/VBA/SAP, not transport planning
+https://ca.linkedin.com/jobs/view/4474403159  # skipped 2026-10-12: Alstom signalling project engineering manager: 5 yrs signalling, P.Eng, team mgmt
+https://ca.linkedin.com/jobs/view/4477284780  # skipped 2026-10-12: GD Land Systems defence modelling/simulation, not transportation
+https://ca.linkedin.com/jobs/view/4437608364  # skipped 2026-10-12: Canadian Solar service operations planning, not transportation
+https://ca.linkedin.com/jobs/view/4457970082  # skipped 2026-10-12: Airport design-build PM, construction management, not planning
+https://ca.linkedin.com/jobs/view/4469220289  # skipped 2026-10-12: Lighting and signals project engineer, electrical design, not planning
+https://careers.regionofwaterloo.ca/RoW/job/Kitchener-Senior-Transportation-Planner-%28Regional-Growth%2C-Development-and-Sustainability-Services%29-ON/585228617  # skipped 2026-10-12: Region of Waterloo Senior Transportation Planner: page is JS-rendered, no date or close date readable, unverifiable
+https://www.ihireconstruction.com/jobs/view/481235411  # skipped 2026-10-12: iHire page returned generic listing, Stantec posting unverifiable
