@@ -88,7 +88,7 @@ FRENCH = re.compile(r"[éèêàâçôû·]|\b(ingénieur|conseill|chargé|techni
                     r"chef|spécialiste|professionnel)", re.I)
 
 
-def get(url, tries=4):
+def get(url, tries=3):
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "en-CA,en;q=0.9"})
     for i in range(tries):
         try:
@@ -97,7 +97,9 @@ def get(url, tries=4):
         except Exception as e:  # noqa: BLE001 - report every failure, never stop the run
             err = e
             if i + 1 < tries:
-                time.sleep(20 * 2 ** i if getattr(e, "code", None) == 429 else 3)   # LinkedIn rate limit
+                limited = getattr(e, "code", None) == 429                          # LinkedIn rate limit
+                print(f"  {'rate-limited' if limited else e}; retrying", file=sys.stderr, flush=True)
+                time.sleep(30 * (i + 1) if limited else 3)
     raise err
 
 
@@ -201,7 +203,8 @@ def linkedin(days, sweep_days=30):
     jobs, requests, failures = {}, 0, []
     searches = [(kw, loc, pages, days, None) for kw in KEYWORDS for loc, pages in LOCATIONS]
     searches += [(kw, "Ontario, Canada", 4, sweep_days, match) for kw, match in EMPLOYERS]
-    for kw, loc, pages, window, match in searches:
+    for n, (kw, loc, pages, window, match) in enumerate(searches, 1):
+        print(f"[{n}/{len(searches)}] {kw} / {loc}", file=sys.stderr, flush=True)
         for page in range(pages):
             q = urllib.parse.urlencode({"keywords": kw, "location": loc, "f_TPR": f"r{window * 86400}",
                                         "start": page * 10})
