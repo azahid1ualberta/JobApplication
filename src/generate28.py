@@ -10,7 +10,27 @@ JOBS = [("MX_GIS", "Metrolinx-Engineering-Lead-GIS-4476855569", "Engineering Lea
         ("DURHAM", "Region-of-Durham-Senior-Planner-24244", "Senior Planner"),
         ("SYSTRA_GIS", "SYSTRA-GIS-Manager-GO-Expansion-4467587249", "GIS Manager"),
         ("PEARSON", "Toronto-Pearson-Senior-Capacity-Planning-Analyst-4471907925", "Senior Capacity Planning Analyst"),
-        ("MX_SPONSOR", "Metrolinx-Sponsor-Officer-GO-Expansion-4473808230", "Sponsor Officer, GO Expansion")]
+        ("MX_SPONSOR", "Metrolinx-Sponsor-Officer-GO-Expansion-4473808230", "Sponsor Officer, GO Expansion"),
+        ("MX_AGREE", "Metrolinx-Senior-Advisor-Agreements-4474218523", "Senior Advisor, Agreements"),
+        ("MX_OPREADY", "Metrolinx-Operational-Readiness-Specialist-4475495932", "Operational Readiness Specialist"),
+        ("MX_SSE", "Metrolinx-Senior-Advisor-SSE-4476864368", "Senior Advisor, SSE"),
+        ("MX_PM", "Metrolinx-Project-Manager-Union-Station-Enhancement-4475743512", "Project Manager"),
+        ("MX_GXO", "Metrolinx-Senior-Manager-GO-Expansion-Operations-4473399545", "Senior Manager, GO Expansion Operations"),
+        ("MM_ADV", "Mott-MacDonald-Advisory-Consultant-4472048640", "Advisory Consultant"),
+        ("MM_OR", "Mott-MacDonald-Senior-Advisory-Consultant-Operational-Readiness-4470639693",
+         "Senior Advisory Consultant, Operational Readiness"),
+        ("MM_PM", "Mott-MacDonald-Project-Manager-4450679013", "Project Manager"),
+        ("DIL", "Dillon-Transportation-Planner-Engineer-Toronto-4454867596", "Transportation Planner-Engineer"),
+        ("DIL_SR", "Dillon-Senior-Transportation-Planner-Engineer-4338753958", "Senior Transportation Planner-Engineer"),
+        ("GHD", "GHD-Senior-Transportation-Planner-Traffic-Engineer-4474284635",
+         "Senior Transportation Planner - Traffic Engineer"),
+        ("EGIS", "Egis-Project-Manager-Rail-Transit-4467784730", "Project Manager, Rail & Transit"),
+        ("CNV_GIS", "City-of-North-Vancouver-Manager-GIS-4475965890", "Manager, GIS"),
+        ("SKY_GIS", "Skyline-Recruitment-GIS-Manager-4476799886", "GIS Manager"),
+        ("WSP_AVN", "WSP-Aviation-Planner-4429033181", "Aviation Planner"),
+        ("BINNIE", "Binnie-Project-Manager-Transportation-Major-Projects-4462349430", "Project Manager"),
+        ("AECON", "Aecon-Traffic-Lead-4452988953", "Traffic Lead"),
+        ("COT_SPATIAL", "City-of-Toronto-Spatial-Specialist-66074", "Spatial Specialist")]
 only = sys.argv[1:]
 for k, f, role in JOBS:
     if only and k not in only:

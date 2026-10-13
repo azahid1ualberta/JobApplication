@@ -91,6 +91,37 @@ Today is **30 September 2026**.
 | [GIS Manager, GO Expansion](applications/SYSTRA-GIS-Manager-GO-Expansion-4467587249) | SYSTRA (for Metrolinx) | Not shown | **Medium-high.** Enterprise GIS on the GO program; no ArcGIS Enterprise admin or GIS team lead. $130–170K. |
 | [Sponsor Officer, GO Expansion](applications/Metrolinx-Sponsor-Officer-GO-Expansion-4473808230) | Metrolinx, Integrated Delivery | Not shown | **High.** Evidence and governance materials for the GO Expansion business case. $93,798–$127,484. |
 | [Senior Capacity Planning Analyst](applications/Toronto-Pearson-Senior-Capacity-Planning-Analyst-4471907925) | Toronto Pearson (GTAA) | Not shown | **Medium-high.** Capacity analysis and simulation; no airport data or Power BI. $53.06/hr. |
+| [Spatial Specialist](applications/City-of-Toronto-Spatial-Specialist-66074) (66074) | City of Toronto, Technology Services | 22 Oct | **Medium.** GIS automation, pay up; **12-month temporary**; apply through the internal portal. |
+| [Manager, GIS](applications/City-of-North-Vancouver-Manager-GIS-4475965890) | City of North Vancouver, **BC** | 21 Oct | **Medium, out of province.** Working GIS manager; no team leadership or ArcGIS Enterprise. $128,520–$151,200. |
+| [Operational Readiness Specialist](applications/Metrolinx-Operational-Readiness-Specialist-4475495932) | Metrolinx, GO & UP Operational Readiness | Not shown | **Medium-high.** Service-impact background fits; no readiness or commissioning. $93,798–$127,484. |
+| [Senior Advisor, Agreements](applications/Metrolinx-Senior-Advisor-Agreements-4474218523) | Metrolinx, CPG Third Party Coordination | Not shown | **Medium.** Municipal agreements for GO Expansion; no agreements or P3. |
+| [Senior Advisor, SSE](applications/Metrolinx-Senior-Advisor-SSE-4476864368) | Metrolinx, Scarborough Subway Extension | Not shown | **Medium.** Board memos and briefing work; no capital delivery. |
+| [Transportation Planner/Engineer](applications/Dillon-Transportation-Planner-Engineer-Toronto-4454867596) | Dillon, Toronto | Not shown | **Medium.** Strong skills fit, planner grade; $75–100K. |
+| [Advisory Consultant](applications/Mott-MacDonald-Advisory-Consultant-4472048640) | Mott MacDonald, Toronto | Not shown | **Medium.** Options analysis and reports; 8 yrs, business cases and P3 asked. $93–113K. |
+| [GIS Manager](applications/Skyline-Recruitment-GIS-Manager-4476799886) | via Skyline Recruitment | Not shown | **Medium-low.** GIS/CAD team lead at an environmental consultancy; ask who the client is. |
+| [Senior Transportation Planner / Traffic Engineer](applications/GHD-Senior-Transportation-Planner-Traffic-Engineer-4474284635) | GHD, Toronto | Not shown | **Low-medium.** Right work; requires P.Eng. or EIT with PEO and 8–10 yrs. |
+| [Traffic Lead](applications/Aecon-Traffic-Lead-4452988953) | Aecon, Toronto | Pool | **Low-medium.** Construction traffic management; OTM Book 7, TTMPs and Class G required. $110–140K. |
+| [Senior Advisory Consultant, Operational Readiness](applications/Mott-MacDonald-Senior-Advisory-Consultant-Operational-Readiness-4470639693) | Mott MacDonald | Not shown | **Low-medium.** Senior; 10 yrs asked. $124–152K. |
+| [Project Manager, Union Station Enhancement](applications/Metrolinx-Project-Manager-Union-Station-Enhancement-4475743512) | Metrolinx, CPG | Not shown | **Low-medium.** Capital delivery PM. |
+| [Senior Manager, GO Expansion Operations](applications/Metrolinx-Senior-Manager-GO-Expansion-Operations-4473399545) | Metrolinx | Not shown | **Long shot.** 10 yrs senior rail operations. Old team's area, so the two tools are left out. $140–199K. |
+| [Project Manager](applications/Mott-MacDonald-Project-Manager-4450679013) | Mott MacDonald | Not shown | **Low.** Delivery PM, staff management. |
+| [Senior Transportation Planner/Engineer](applications/Dillon-Senior-Transportation-Planner-Engineer-4338753958) | Dillon, GTHA | Not shown | **Low.** 10 yrs, Class EAs, BD. |
+| [Project Manager, Rail & Transit](applications/Egis-Project-Manager-Rail-Transit-4467784730) | Egis, Toronto | Not shown | **Low.** 10+ yrs delivery. |
+| [Aviation Planner](applications/WSP-Aviation-Planner-4429033181) | WSP, Ontario | Not shown | **Low.** 7–10 yrs aviation planning. |
+| [Project Manager, Transportation Major Projects](applications/Binnie-Project-Manager-Transportation-Major-Projects-4462349430) | Binnie, **Burnaby, BC** | Not shown | **Low.** Owner's engineer; Class 5 licence and vehicle. |
+
+**Read and not built** (your rule's skips: licence mandatory, 15+ years, out of field, French or closed):
+TTC Program Manager, Operations Support (closed 8 Oct); TTC Senior Manager, Transportation (subway
+operations, Class G); Halton PM I, Transportation (P.Eng. or C.E.T. required; closes 14 Oct);
+Hamilton PM, Development Engineering (P.Eng.); Innisfil Capital PM (P.Eng., 7 yrs); Edmonton
+Senior Engineer, Mobility (APEGA); MTO Lead Engineer (P.Eng.) and Senior PM (highway design,
+closed 13 Oct); GHD Senior Traffic Engineer, Egis Senior Traffic Engineer, HDR Senior
+Transportation Engineer and PM, Burnside Manager Transportation, Chisholm Fleming (all P.Eng.
+required); Arcadis Senior Rail Transportation Planner (20+ yrs, RPP/P.Eng.); VIA Rail Master
+Planner (French); City of Toronto Research Analyst 3 (pay below your band, closed 13 Oct);
+Niagara Falls Senior GIS Analyst (pay below band); Fujitsu GIS PM (10 yrs as GIS PM); Esri GIS PM
+(property assessment); KPMG, Hitachi, NORR, Ontario Northland, TTC Business Development and
+Activation (outside your field).
 
 ## The gaps that keep blocking you
 
