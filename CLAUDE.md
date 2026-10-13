@@ -81,8 +81,8 @@ letter. Key points:
 
 Approved by him on 5 October 2026: cost OK, results to Google Drive as dated folders, push to
 GitHub. Each run is a fresh session; this file is the whole procedure. A good run reads dozens
-of candidates and builds up to 15 applications. Do not stop early: work through every candidate
-the finder lists before writing the summary.
+of candidates and builds an application for every one that qualifies. Do not stop early: work
+through every candidate the finder lists before writing the summary.
 
 **Drive (Google Drive connector; folder owned by packplug.review@gmail.com, writable):**
 
@@ -108,21 +108,43 @@ GitHub, and the run summary links to them. Do not try to push a PDF through `bas
    `python3 src/fetch_fonts.py` if `src/fonts/` is empty. Download `criteria.md` and
    `Resume_Content.md` from Drive into `job-search/`. If they differ from the repo copies, his
    Drive edits win; note what changed in the run summary.
-2. Search: run `python3 job-search/find_jobs.py` (about two minutes). It reads every City of
-   Toronto opening and LinkedIn's public job search (no login) for the past 7 days, across
-   Ontario and Canada. It drops what is already seen, skipped, tracked or built, and the
-   downgrade titles. Work through its whole candidate table. Then cover what it does not: TTC,
+2. Search: run `python3 job-search/find_jobs.py`. It takes about 10 minutes, because LinkedIn
+   rate-limits it. It reads:
+   - every City of Toronto opening;
+   - LinkedIn's public job search (no login) for transportation, transit, rail and GIS keywords
+     over the past 7 days, across Ontario and Canada;
+   - every LinkedIn posting from each priority employer (Metrolinx, TTC, the GTA
+     municipalities, Infrastructure Ontario, the consultancies) over the past 30 days, whatever
+     its title.
+
+   It drops what is already seen, skipped, tracked or built, and the downgrade titles. Work
+   through its whole candidate table. Then cover what it does not: TTC,
    Peel, York, Durham, Mississauga, Brampton and the consultancies' own career pages, and
    WebSearch, as `criteria.md` asks. Metrolinx's portal, Indeed, Glassdoor, careerbeacon and
    municipalworld block automated reads; most of their postings are on LinkedIn too.
    **Never** log in anywhere.
 3. Judge each candidate on the work, per `criteria.md`. Read the posting with
-   `python3 job-search/find_jobs.py show URL`. **Location is not a reason to skip.** The criteria
+   `python3 job-search/find_jobs.py show URL`; never decide from the title or company alone.
+   **He asked on 13 October for every senior role to be matched.** The runs had missed
+   Metrolinx's Engineering Lead, GIS, which he called a perfect fit. That means managers, senior
+   managers, senior advisors, advisors, leads, project and program managers, specialists and
+   senior planners, wherever the work touches transportation, transit, rail, GIS or spatial
+   data, infrastructure or capital planning, development review, or transportation policy and
+   data. Build the application even when the posting asks for more years, staff leadership,
+   budgets or a designation he lacks; the letter names those gaps. Transit and transportation
+   project-delivery roles count too; flag them as weaker. Skip only when:
+   - a licence is mandatory (P.Eng., APEGA or RPP required, not "eligible" or an asset);
+   - 15+ years is a stated minimum;
+   - the work is outside his field (building construction, signals, electrical or structural
+     design, finance, legal, IT software); or
+   - French is required.
+
+   When in doubt, build it. **Location is not a reason to skip.** The criteria
    say any location, Canada first, so a Calgary or Vancouver role is in scope. Flag the location
    in the notes, and never say in a letter that he would relocate. Skip anything expired or
    unverifiable and every downgrade title. When you read a posting and decide against it, run
-   `python3 job-search/tracker.py skip URL <one-line reason>` so it does not come back. Aim for
-   the strongest 10–15. Never fabricate a posting.
+   `python3 job-search/tracker.py skip URL <one-line reason>` so it does not come back. Build
+   every candidate that qualifies; there is no cap. Never fabricate a posting.
 4. For each job, in `applications/<Org>-<Role>-<JobID>/`:
    - save the posting with
      `python3 job-search/find_jobs.py show URL --pdf "<folder>/Job Description - <Company> - <Role>.pdf"`;

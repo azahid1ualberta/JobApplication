@@ -4,13 +4,16 @@
     python3 job-search/find_jobs.py                     # list new candidates from every source
     python3 job-search/find_jobs.py --days 2            # LinkedIn: only postings from the last 2 days
     python3 job-search/find_jobs.py --dry-run           # do not record today's candidates in shown_jobs.txt
+    python3 job-search/find_jobs.py --all --days 30     # catch-up: also list postings skipped or shown before
     python3 job-search/find_jobs.py show URL            # print one posting's full text
     python3 job-search/find_jobs.py show URL --pdf OUT  # ...and save it as the Job Description PDF
 
 Sources:
   - City of Toronto: every opening on jobs.toronto.ca, not a keyword search.
   - LinkedIn's public job search (no login) for the KEYWORDS below, in Ontario and across Canada.
-    Most employers, including Metrolinx, the regions and the consultancies, post there too.
+  - Every LinkedIn posting from each of the EMPLOYERS below in the past 30 days, whatever its
+    title, so a role like Metrolinx's "Engineering Lead - GIS" is not missed for want of a
+    keyword. Metrolinx, the regions and the consultancies all post there.
 
 URLs already in seen_jobs.txt, jobs already in the tracker or applications/, and the downgrade
 titles that criteria.md lists are dropped. Everything else is printed for judgement: the script
@@ -34,10 +37,28 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
       "Chrome/126.0 Safari/537.36")
 
 KEYWORDS = ["transportation planner", "transportation planning", "transportation engineer",
-            "traffic engineer", "transit planner", "transportation analyst", "transportation modeller",
-            "rail simulation", "service planner", "mobility planner", "transportation project manager",
-            "transit advisor"]
-LOCATIONS = [("Ontario, Canada", 3), ("Canada", 2)]   # (location, pages of 10)
+            "traffic engineer", "transit planner", "transit planning", "transportation analyst",
+            "transportation modelling", "rail simulation", "rail planning", "service planner",
+            "mobility planner", "transportation project manager", "transportation manager",
+            "senior advisor transit", "senior advisor transportation", "GIS", "geospatial", "GIS lead",
+            "transportation data", "infrastructure planning", "development review"]
+LOCATIONS = [("Ontario, Canada", 3), ("Canada", 1)]   # (location, pages of 10)
+# Priority employers: every posting in the past 30 days. (search words, name to match on the card)
+EMPLOYERS = [("Metrolinx", "metrolinx"), ("Toronto Transit Commission", "toronto transit"),
+             ("City of Toronto", "city of toronto"), ("York Region", "york region"),
+             ("Region of Peel", "peel"), ("Durham Region", "durham"), ("City of Mississauga", "mississauga"),
+             ("City of Brampton", "brampton"), ("Halton Region", "halton"), ("City of Vaughan", "vaughan"),
+             ("City of Markham", "markham"), ("City of Hamilton", "hamilton"), ("City of Ottawa", "ottawa"),
+             ("Region of Waterloo", "waterloo"), ("Infrastructure Ontario", "infrastructure ontario"),
+             ("Ministry of Transportation Ontario", "transportation"), ("Toronto Pearson", "pearson"),
+             ("Alto high speed rail", "alto"), ("WSP transportation", "wsp"), ("Arcadis transportation", "arcadis"),
+             ("HDR transportation", "hdr"), ("Stantec transportation", "stantec"),
+             ("AECOM transportation", "aecom"), ("Dillon Consulting", "dillon"), ("CIMA+ transportation", "cima"),
+             ("Parsons transportation", "parsons"), ("GHD transportation", "ghd"),
+             ("Mott MacDonald", "mott macdonald"), ("Jacobs transportation", "jacobs"),
+             ("Hatch transit", "hatch"), ("SYSTRA", "systra"), ("Egis transportation", "egis"),
+             ("Arup transportation", "arup"), ("AtkinsRealis transportation", "atkins"), ("Steer", "steer"),
+             ("BA Group", "ba group"), ("LEA Group", "lea"), ("R.J. Burnside", "burnside")]
 
 # criteria.md, "DO NOT include" — titles only; the work is judged by reading the posting
 DOWNGRADE = re.compile(r"\b(assistant|associate|junior|jr\b|entry[- ]level|graduate|intern|internship|co-?op|"
@@ -56,7 +77,10 @@ NOISE = re.compile(r"logistic|supply chain|dispatch|carrier|freight|warehouse|tr
                    r"\bocs\b|electrification|structur|systems engineer|systems integration|architect|firmware|electrical|"
                    r"customer|client service|coordinator|scheduler|procurement|buyer|payroll|recruit|human resources|"
                    r"\bhr\b|finance|accountant|legal|teacher|instructor|operator|attendant|clerk|security|superintendent|"
-                   r"foreman|estimator|surveyor|designer|draft|\bsap\b|first mile|last mile|warranty", re.I)
+                   r"foreman|estimator|surveyor|designer|draft|\bsap\b|first mile|last mile|warranty|financ|"
+                   r"counsel|audit|talent pool|controller|constable|fare |paralegal|lawyer|payable|receivable|"
+                   r"cleaner|custodian|janitor|cook|chef|lifeguard|librar|nursing|dental|pharmac|veterinar|"
+                   r"electrician|plumber|millwright|welder|carpenter|labourer|laborer|crossing guard|by-law", re.I)
 # ...and these employers' "transportation" roles are shipping and retail logistics
 NOISE_EMPLOYER = re.compile(r"logistic|trucking|freight|courier|\btransport\b(?! canada)|day & ross|loblaw|"
                             r"canadian tire|tjx|amazon|uline|walmart|costco|sobeys|pepsico|accenture|toromont", re.I)
@@ -64,7 +88,7 @@ FRENCH = re.compile(r"[éèêàâçôû·]|\b(ingénieur|conseill|chargé|techni
                     r"chef|spécialiste|professionnel)", re.I)
 
 
-def get(url, tries=2):
+def get(url, tries=4):
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "en-CA,en;q=0.9"})
     for i in range(tries):
         try:
@@ -72,10 +96,8 @@ def get(url, tries=2):
                 return r.read().decode("utf-8", "replace")
         except Exception as e:  # noqa: BLE001 - report every failure, never stop the run
             err = e
-            if getattr(e, "code", None) == 429:
-                time.sleep(15)
-            elif i + 1 < tries:
-                time.sleep(3)
+            if i + 1 < tries:
+                time.sleep(20 * 2 ** i if getattr(e, "code", None) == 429 else 3)   # LinkedIn rate limit
     raise err
 
 
@@ -112,10 +134,11 @@ def iso(d):
 
 # ------------------------------------------------------------------ what we already have
 
-def already_have():
+def already_have(include_skipped=False):
     """URLs and job IDs in seen_jobs.txt (built or skipped) and the tracker; titles already built."""
     with open(os.path.join(HERE, "seen_jobs.txt")) as f:
-        urls = {l.split()[0] for l in f if l.strip() and not l.startswith("#")}
+        urls = {l.split()[0] for l in f if l.strip() and not l.startswith("#")
+                and not (include_skipped and "# skipped" in l)}
     ids = set().union(*(ids_in(u) for u in urls)) if urls else set()
     pairs = set()
     ws = openpyxl.load_workbook(os.path.join(HERE, "Job_Tracker.xlsx")).active
@@ -174,37 +197,42 @@ def city_details(j):
     j["city_id"] = f("Job ID")
 
 
-def linkedin(days):
+def linkedin(days, sweep_days=30):
     jobs, requests, failures = {}, 0, []
-    for kw in KEYWORDS:
-        for loc, pages in LOCATIONS:
-            for page in range(pages):
-                q = urllib.parse.urlencode({"keywords": kw, "location": loc, "f_TPR": f"r{days * 86400}",
-                                            "start": page * 10})
-                try:
-                    s = get("https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?" + q)
-                except Exception as e:  # noqa: BLE001
-                    failures.append(f"{kw} / {loc} / page {page + 1}: {e}")
-                    break
-                finally:
-                    requests += 1
-                    time.sleep(1.2)
-                cards = re.findall(r"<li>(.*?)</li>", s, re.S)
-                for c in cards:
-                    url = re.search(r'href="(https://[a-z]+\.linkedin\.com/jobs/view/[^"?]+)', c)
-                    if not url:
-                        continue
-                    jid = re.search(r"(\d{9,})$", url.group(1)).group(1)
-                    g = lambda p: (lambda m: html.unescape(re.sub(r"<[^>]+>", "", m.group(1))).strip() if m else "")(
-                        re.search(p, c, re.S))
-                    jobs.setdefault(jid, {"source": "LinkedIn", "id": jid,
-                                          "url": "https://ca.linkedin.com/jobs/view/" + jid,
-                                          "title": g(r'base-search-card__title">(.*?)</h3>'),
-                                          "company": g(r'base-search-card__subtitle">(.*?)</h4>'),
-                                          "location": g(r'job-search-card__location">(.*?)</span>'),
-                                          "posted": (re.search(r'datetime="([^"]+)"', c) or [None, ""])[1]})
-                if len(cards) < 10:
-                    break
+    searches = [(kw, loc, pages, days, None) for kw in KEYWORDS for loc, pages in LOCATIONS]
+    searches += [(kw, "Ontario, Canada", 4, sweep_days, match) for kw, match in EMPLOYERS]
+    for kw, loc, pages, window, match in searches:
+        for page in range(pages):
+            q = urllib.parse.urlencode({"keywords": kw, "location": loc, "f_TPR": f"r{window * 86400}",
+                                        "start": page * 10})
+            try:
+                s = get("https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?" + q)
+            except Exception as e:  # noqa: BLE001
+                failures.append(f"{kw} / {loc} / page {page + 1}: {e}")
+                break
+            finally:
+                requests += 1
+                time.sleep(2)
+            cards = re.findall(r"<li>(.*?)</li>", s, re.S)
+            hits = 0
+            for c in cards:
+                url = re.search(r'href="(https://[a-z]+\.linkedin\.com/jobs/view/[^"?]+)', c)
+                if not url:
+                    continue
+                jid = re.search(r"(\d{9,})$", url.group(1)).group(1)
+                g = lambda p: (lambda m: html.unescape(re.sub(r"<[^>]+>", "", m.group(1))).strip() if m else "")(
+                    re.search(p, c, re.S))
+                if match and match not in g(r'base-search-card__subtitle">(.*?)</h4>').lower():
+                    continue
+                hits += 1
+                jobs.setdefault(jid, {"source": "LinkedIn", "id": jid,
+                                      "url": "https://ca.linkedin.com/jobs/view/" + jid,
+                                      "title": g(r'base-search-card__title">(.*?)</h3>'),
+                                      "company": g(r'base-search-card__subtitle">(.*?)</h4>'),
+                                      "location": g(r'job-search-card__location">(.*?)</span>'),
+                                      "posted": (re.search(r'datetime="([^"]+)"', c) or [None, ""])[1]})
+            if len(cards) < 10 or (match and not hits):
+                break
     return list(jobs.values()), requests, failures
 
 
@@ -258,7 +286,7 @@ def main():
             save_pdf(posting, args[args.index("--pdf") + 1])
         return
     days = int(args[args.index("--days") + 1]) if "--days" in args else 7
-    urls, ids, pairs, built = already_have()
+    urls, ids, pairs, built = already_have(include_skipped="--all" in args)
 
     found, report = [], []
     try:
@@ -268,9 +296,10 @@ def main():
     except Exception as e:  # noqa: BLE001
         report.append(f"City of Toronto: UNREADABLE ({e}).")
     try:
-        li, n, failures = linkedin(days)
+        li, n, failures = linkedin(days, max(days, 30))
         found += li
-        report.append(f"LinkedIn public search: {len(li)} postings from the last {days} days, {n} requests"
+        report.append(f"LinkedIn public search: {len(li)} postings (keywords: last {days} days; "
+                      f"{len(EMPLOYERS)} priority employers: last {max(days, 30)} days), {n} requests"
                       + (f"; UNREADABLE for {len(failures)} queries: " + "; ".join(failures[:5]) if failures else "."))
     except Exception as e:  # noqa: BLE001
         report.append(f"LinkedIn public search: UNREADABLE ({e}).")
@@ -309,7 +338,7 @@ def main():
         for line in open(shown_path):
             if line.strip() and not line.startswith("#"):
                 shown[line.split()[0]] = line.split()[-1]
-    earlier = [j for j in new if shown.get(j["url"], today) < today]
+    earlier = [] if "--all" in args else [j for j in new if shown.get(j["url"], today) < today]
     new = [j for j in new if j not in earlier]
     if "--dry-run" not in args:
         with open(shown_path, "a") as f:
