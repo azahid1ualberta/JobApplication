@@ -4,7 +4,13 @@ import content28 as C
 from generate19 import fit, RESUME_STEPS, LETTER_STEPS
 
 A = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "applications")
-JOBS = [("MX_GIS", "Metrolinx-Engineering-Lead-GIS-4476855569", "Engineering Lead - GIS")]
+JOBS = [("MX_GIS", "Metrolinx-Engineering-Lead-GIS-4476855569", "Engineering Lead - GIS"),
+        ("OPS_GOLRT", "Ontario-Public-Service-Manager-GO-LRT-4471948021", "Manager, GO-LRT"),
+        ("MISS_TRAFFIC", "City-of-Mississauga-Supervisor-Traffic-Planning-28597", "Supervisor, Traffic Planning"),
+        ("DURHAM", "Region-of-Durham-Senior-Planner-24244", "Senior Planner"),
+        ("SYSTRA_GIS", "SYSTRA-GIS-Manager-GO-Expansion-4467587249", "GIS Manager"),
+        ("PEARSON", "Toronto-Pearson-Senior-Capacity-Planning-Analyst-4471907925", "Senior Capacity Planning Analyst"),
+        ("MX_SPONSOR", "Metrolinx-Sponsor-Officer-GO-Expansion-4473808230", "Sponsor Officer, GO Expansion")]
 only = sys.argv[1:]
 for k, f, role in JOBS:
     if only and k not in only:

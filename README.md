@@ -80,6 +80,18 @@ Today is **30 September 2026**.
 | [Aviation Project Manager](applications/Stantec-Aviation-Project-Manager-1006666) (1006666) | Stantec, **Calgary / Vancouver** | Not shown (posted Jul) | Very weak. 7+ years airport engineering, P.Eng. BC/AB, out of province. $111,700–$177,100. |
 | [Senior Aviation Planner](applications/CIMA-Senior-Aviation-Planner-REF3026P) (REF3026P) | CIMA+, Mississauga | Not shown | Very weak. 12+ years of airport planning strongly preferred. |
 
+### Catch-up, 13 October: senior roles the daily runs missed
+
+| Posting | Employer | Closes | Worth your time? |
+|---|---|---|---|
+| [Manager, GO/LRT](applications/Ontario-Public-Service-Manager-GO-LRT-4471948021) | Ontario Public Service, TOC Policy and Delivery | **15 Oct** | **Stretch, right subject.** TOC projects with IO, municipalities, Metrolinx. People-manager role; no supervision, approvals or municipal finance. $110,638–$155,942. |
+| [Supervisor, Traffic Planning](applications/City-of-Mississauga-Supervisor-Traffic-Planning-28597) (28597) | City of Mississauga | **16 Oct** | **Right work, step up.** Development and traffic study review is his job; 8 yrs incl. 3 leading asked. $101,242–$134,990. |
+| [Senior Planner](applications/Region-of-Durham-Senior-Planner-24244) (24244) | Region of Durham, Whitby | 20 Oct | **Medium-high.** Transportation Planning section; data and monitoring focus. Planning degree and RPP eligibility asked. ~$115–128K. |
+| [Engineering Lead, GIS](applications/Metrolinx-Engineering-Lead-GIS-4476855569) | Metrolinx, Engineering & Safety | Not shown | **High.** Division-wide GIS and spatial decision support. Lead-level gaps: governance, asset management. $110,854–$153,872. |
+| [GIS Manager, GO Expansion](applications/SYSTRA-GIS-Manager-GO-Expansion-4467587249) | SYSTRA (for Metrolinx) | Not shown | **Medium-high.** Enterprise GIS on the GO program; no ArcGIS Enterprise admin or GIS team lead. $130–170K. |
+| [Sponsor Officer, GO Expansion](applications/Metrolinx-Sponsor-Officer-GO-Expansion-4473808230) | Metrolinx, Integrated Delivery | Not shown | **High.** Evidence and governance materials for the GO Expansion business case. $93,798–$127,484. |
+| [Senior Capacity Planning Analyst](applications/Toronto-Pearson-Senior-Capacity-Planning-Analyst-4471907925) | Toronto Pearson (GTAA) | Not shown | **Medium-high.** Capacity analysis and simulation; no airport data or Power BI. $53.06/hr. |
+
 ## The gaps that keep blocking you
 
 Carried forward from the earlier set, because they have not changed:

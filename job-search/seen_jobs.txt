@@ -147,3 +147,10 @@ https://ca.linkedin.com/jobs/view/4457970082  # skipped 2026-10-12: Airport desi
 https://ca.linkedin.com/jobs/view/4469220289  # skipped 2026-10-12: Lighting and signals project engineer, electrical design, not planning
 https://careers.regionofwaterloo.ca/RoW/job/Kitchener-Senior-Transportation-Planner-%28Regional-Growth%2C-Development-and-Sustainability-Services%29-ON/585228617  # skipped 2026-10-12: Region of Waterloo Senior Transportation Planner: page is JS-rendered, no date or close date readable, unverifiable
 https://www.ihireconstruction.com/jobs/view/481235411  # skipped 2026-10-12: iHire page returned generic listing, Stantec posting unverifiable
+https://ca.linkedin.com/jobs/view/4476855569
+https://ca.linkedin.com/jobs/view/4471948021
+https://ca.linkedin.com/jobs/view/4471761586
+https://ca.linkedin.com/jobs/view/4473252673
+https://ca.linkedin.com/jobs/view/4467587249
+https://ca.linkedin.com/jobs/view/4471907925
+https://ca.linkedin.com/jobs/view/4473808230
