@@ -168,3 +168,40 @@ https://ca.linkedin.com/jobs/view/4475965890
 https://ca.linkedin.com/jobs/view/4476799886
 https://ca.linkedin.com/jobs/view/4462349430
 https://ca.linkedin.com/jobs/view/4452988953
+https://ca.linkedin.com/jobs/view/4338703968  # skipped 2026-10-13: Duplicate of Dillon Senior Transportation Planner/Engineer (North York) built today
+https://ca.linkedin.com/jobs/view/4467623128  # skipped 2026-10-13: GHD Impact Assessment team lead: business development, EA permitting practice
+https://ca.linkedin.com/jobs/view/4476438978  # skipped 2026-10-13: WSP Senior GIS Analyst: 10 yrs ESRI, archaeology/mining/geotech work, not transport
+https://ca.linkedin.com/jobs/view/4440861047  # skipped 2026-10-13: Arup ITS engineer: P.Eng required, 10 yrs, electrical/ITS
+https://ca.linkedin.com/jobs/view/4476837761  # skipped 2026-10-13: Region of Peel water/wastewater EA: outside field
+https://ca.linkedin.com/jobs/view/4449776489  # skipped 2026-10-13: Hatch environmental permitting, 10+ yrs, mining/energy
+https://ca.linkedin.com/jobs/view/4473370923  # skipped 2026-10-13: TTC Senior Manager Transportation: Class G required, unionized ops management
+https://ca.linkedin.com/jobs/view/4473367956  # skipped 2026-10-13: TTC Program Manager Ops Support: closed Oct 8
+https://ca.linkedin.com/jobs/view/4469676619  # skipped 2026-10-13: TTC Senior Activation Specialist: Class G licence required
+https://ca.linkedin.com/jobs/view/4471598876  # skipped 2026-10-13: TTC Manager Business Development: business/finance role
+https://ca.linkedin.com/jobs/view/4445189537  # skipped 2026-10-13: WSP Senior Environmental Planner: 10-15 yrs EA experience, none on record
+https://ca.linkedin.com/jobs/view/4431528544  # skipped 2026-10-13: WSP Traffic Engineer: PEO licence required
+https://ca.linkedin.com/jobs/view/4415933978  # skipped 2026-10-13: HDR Senior Transportation Engineer: P.Eng required, 10 yrs roadway design
+https://ca.linkedin.com/jobs/view/4466422630  # skipped 2026-10-13: Egis Senior Traffic Engineer: P.Eng required
+https://ca.linkedin.com/jobs/view/4379133978  # skipped 2026-10-13: Burnside Manager Transportation Engineering: P.Eng required, Thunder Bay
+https://ca.linkedin.com/jobs/view/4469457685  # skipped 2026-10-13: WSP Technical Director Transit: P.Eng mandatory
+https://ca.linkedin.com/jobs/view/4432117909  # skipped 2026-10-13: HDR Rail and Transit Department Lead: engineering department head
+https://ca.linkedin.com/jobs/view/4438338818  # skipped 2026-10-13: HDR Senior PM EA/TRPAP: P.Eng required
+https://ca.linkedin.com/jobs/view/4465370069  # skipped 2026-10-13: Parsons Senior Env Planner MTO: 10 yrs MTO EA, Class G
+https://ca.linkedin.com/jobs/view/4473039316  # skipped 2026-10-13: Parsons Principal Env Planner MTO: 15+ yrs
+https://ca.linkedin.com/jobs/view/4461654770  # skipped 2026-10-13: GHD Senior Civil Engineer Transportation: P.Eng required
+https://ca.linkedin.com/jobs/view/4467585222  # skipped 2026-10-13: City of Toronto Executive Director Development Review: executive, 500 staff, via Odgers
+https://ca.linkedin.com/jobs/view/4477182709  # skipped 2026-10-13: Hamilton Director Development Planning: MCIP and RPP required
+https://ca.linkedin.com/jobs/view/4474856423  # skipped 2026-10-13: Iqaluit Director Eng and Capital Planning: engineer registration, Nunavut
+https://ca.linkedin.com/jobs/view/4422199976  # skipped 2026-10-13: Transportation PM Surrey: electrical industry estimating
+https://ca.linkedin.com/jobs/view/4401695516  # skipped 2026-10-13: Cansel PM Survey/GIS: 10+ yrs survey, bilingual
+https://ca.linkedin.com/jobs/view/4468276294  # skipped 2026-10-13: ISL Municipal Planning Engineer: EGBC P.Eng required
+https://ca.linkedin.com/jobs/view/4337226530  # skipped 2026-10-13: McElhanney Senior Geospatial Tech: survey/laser scan technician
+https://ca.linkedin.com/jobs/view/4476045169  # skipped 2026-10-13: Hitachi Principal Project Planner: construction scheduling, signalling
+https://ca.linkedin.com/jobs/view/4466896796  # skipped 2026-10-13: WSP Senior PM Highways: P.Eng required
+https://ca.linkedin.com/jobs/view/4467613590  # skipped 2026-10-13: MTO Senior PM Hwy 69: highway construction engineering
+https://ca.linkedin.com/jobs/view/4467651226  # skipped 2026-10-13: MTO Lead Engineer Projects: PEO required
+https://ca.linkedin.com/jobs/view/4476700157  # skipped 2026-10-13: Not a real Canadian posting (Singapore Land Authority)
+https://ca.linkedin.com/jobs/view/4476797680  # skipped 2026-10-13: AtkinsRéalis Intermediate Planner: nuclear project scheduling
+https://jobs.toronto.ca/jobsatcity/job/Toronto-MANAGER-TRANSPORTATION-BUSINESS-SUPPORT-ON-M/606900217/  # skipped 2026-10-13: Toronto Manager Transportation Business Support: P.Eng required, fleet and facilities
+https://ca.linkedin.com/jobs/view/4338803863  # skipped 2026-10-13: Duplicate of Dillon Senior Transportation Planner-Engineer already built (4338753958)
+https://ca.linkedin.com/jobs/view/4474449755
