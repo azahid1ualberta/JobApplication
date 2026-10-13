@@ -204,4 +204,4 @@ https://ca.linkedin.com/jobs/view/4476700157  # skipped 2026-10-13: Not a real C
 https://ca.linkedin.com/jobs/view/4476797680  # skipped 2026-10-13: AtkinsRéalis Intermediate Planner: nuclear project scheduling
 https://jobs.toronto.ca/jobsatcity/job/Toronto-MANAGER-TRANSPORTATION-BUSINESS-SUPPORT-ON-M/606900217/  # skipped 2026-10-13: Toronto Manager Transportation Business Support: P.Eng required, fleet and facilities
 https://ca.linkedin.com/jobs/view/4338803863  # skipped 2026-10-13: Duplicate of Dillon Senior Transportation Planner-Engineer already built (4338753958)
-https://ca.linkedin.com/jobs/view/4474449755
+https://ca.linkedin.com/jobs/view/4474449755  # skipped 2026-10-13: Consor Environmental GIS Analyst: listed Part-time on LinkedIn (criteria skip part-time); environmental not transport

@@ -1,6 +1,6 @@
 # Run Summary - 2026-10-13
 
-**Result: 1 application built (low priority). 36 candidates read and skipped.**
+**Result: no qualifying jobs today. No applications built. 36 candidates read and skipped.**
 
 Drive `criteria.md` and `Resume_Content.md` were identical to the repo copies.
 
@@ -8,13 +8,7 @@ Drive `criteria.md` and `Resume_Content.md` were identical to the repo copies.
 City of Toronto: all 80 openings read. LinkedIn public search: 804 postings (keywords: last 7 days; 38 priority employers: last 30 days), 196 requests. 315 new candidates; the first finder run was killed at its 30-minute limit (51 of 82 searches) and was re-run in full. I read every candidate whose title touched transportation, transit, rail, GIS, planning or senior management in those fields; the rest were plainly outside his field (finance, nuclear, bridge, geotech, construction inspection, safety, IT).
 
 ## Built
-
-| Job | Company | Closes | Verdict |
-|---|---|---|---|
-| Environmental GIS Analyst | Consor Canada, Toronto | Not shown | **Low.** GIS tools match; environmental subject, no LiDAR/field collection, analyst grade. |
-
-Resume and letter: https://github.com/azahid1ualberta/JobApplication/blob/claude/tailored-resume-cover-letters-t2n8vx/applications/Consor-Environmental-GIS-Analyst-4474449755/
-Tracker: `job-search/Job_Tracker.xlsx`
+None. I built and then withdrew one application (Consor Canada, Environmental GIS Analyst, Toronto) after seeing LinkedIn lists it as Part-time, which criteria.md says to skip. It was also environmental rather than transport work, with no LiDAR or field collection, at analyst grade.
 
 ## Read and skipped (logged with tracker skip)
 
@@ -48,6 +42,7 @@ Tracker: `job-search/Job_Tracker.xlsx`
 | Senior PM; Lead Engineer, Projects | Ontario MTO | Highway construction engineering; PEO |
 | Geomatics Manager | Singapore Land Authority | Not a Canadian posting |
 | Intermediate Planner | AtkinsRéalis | Nuclear project scheduling |
+| Environmental GIS Analyst | Consor Canada | Part-time on LinkedIn; environmental work; analyst grade |
 
 ## Sources that could not be read
 - TTC, Peel, York, Durham, Mississauga, Brampton career sites and the consultancies' own career pages (WSP, Arcadis, Stantec, AECOM and others): not fetched directly this run. Their LinkedIn postings were covered by the finder's employer sweep, but their own portals were not checked, so postings that are not on LinkedIn would be missed.

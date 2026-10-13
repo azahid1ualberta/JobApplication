@@ -101,7 +101,6 @@ Today is **30 September 2026**.
 | [GIS Manager](applications/Skyline-Recruitment-GIS-Manager-4476799886) | via Skyline Recruitment | Not shown | **Medium-low.** GIS/CAD team lead at an environmental consultancy; ask who the client is. |
 | [Senior Transportation Planner / Traffic Engineer](applications/GHD-Senior-Transportation-Planner-Traffic-Engineer-4474284635) | GHD, Toronto | Not shown | **Low-medium.** Right work; requires P.Eng. or EIT with PEO and 8–10 yrs. |
 | [Traffic Lead](applications/Aecon-Traffic-Lead-4452988953) | Aecon, Toronto | Pool | **Low-medium.** Construction traffic management; OTM Book 7, TTMPs and Class G required. $110–140K. |
-| [Environmental GIS Analyst](applications/Consor-Environmental-GIS-Analyst-4474449755) | Consor Canada, Toronto | Not shown | **Low.** GIS analyst; environmental not transport work; no LiDAR or field collection. $75–115K. |
 | [Senior Advisory Consultant, Operational Readiness](applications/Mott-MacDonald-Senior-Advisory-Consultant-Operational-Readiness-4470639693) | Mott MacDonald | Not shown | **Low-medium.** Senior; 10 yrs asked. $124–152K. |
 | [Project Manager, Union Station Enhancement](applications/Metrolinx-Project-Manager-Union-Station-Enhancement-4475743512) | Metrolinx, CPG | Not shown | **Low-medium.** Capital delivery PM. |
 | [Senior Manager, GO Expansion Operations](applications/Metrolinx-Senior-Manager-GO-Expansion-Operations-4473399545) | Metrolinx | Not shown | **Long shot.** 10 yrs senior rail operations. Old team's area, so the two tools are left out. $140–199K. |
