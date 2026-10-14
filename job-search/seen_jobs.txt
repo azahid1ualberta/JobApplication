@@ -205,3 +205,26 @@ https://ca.linkedin.com/jobs/view/4476797680  # skipped 2026-10-13: AtkinsRéali
 https://jobs.toronto.ca/jobsatcity/job/Toronto-MANAGER-TRANSPORTATION-BUSINESS-SUPPORT-ON-M/606900217/  # skipped 2026-10-13: Toronto Manager Transportation Business Support: P.Eng required, fleet and facilities
 https://ca.linkedin.com/jobs/view/4338803863  # skipped 2026-10-13: Duplicate of Dillon Senior Transportation Planner-Engineer already built (4338753958)
 https://ca.linkedin.com/jobs/view/4474449755  # skipped 2026-10-13: Consor Environmental GIS Analyst: listed Part-time on LinkedIn (criteria skip part-time); environmental not transport
+https://ca.linkedin.com/jobs/view/4476459568
+https://ca.linkedin.com/jobs/view/4479507632
+https://ca.linkedin.com/jobs/view/4478157254
+https://ca.linkedin.com/jobs/view/4478429341  # skipped 2026-10-14: York YRRTC Project Specialist II: property acquisition and environmental due diligence; Class G required
+https://ca.linkedin.com/jobs/view/4469977503  # skipped 2026-10-14: FGF Brands Transportation Planner: freight logistics, not his field
+https://ca.linkedin.com/jobs/view/4479028444  # skipped 2026-10-14: Halton Supervisor Policy and Planning: Children's Services
+https://ca.linkedin.com/jobs/view/4476482820  # skipped 2026-10-14: Synectics Geomatics Specialist: field survey, Revit, Class G
+https://ca.linkedin.com/jobs/view/4459885672  # skipped 2026-10-14: VIA Rail Senior Specialist Host Railway: P.Eng/OIQ required, 10-15 yrs, Montreal French
+https://ca.linkedin.com/jobs/view/4449251687  # skipped 2026-10-14: Arcadis Project Manager: 15+ years stated minimum, building/multidisciplinary
+https://ca.linkedin.com/jobs/view/4476102250  # skipped 2026-10-14: Jacobs Environmental Planner: environmental permitting, outside field
+https://ca.linkedin.com/jobs/view/4338813753  # skipped 2026-10-14: Dillon Transportation Engineer Vaughan: same posting as built Dillon Senior Transportation Planner-Engineer 4338753958
+https://ca.linkedin.com/jobs/view/4338913775  # skipped 2026-10-14: Dillon Transportation Engineer Kitchener: same posting as built Dillon Senior Transportation Planner-Engineer 4338753958
+https://ca.linkedin.com/jobs/view/4479081497  # skipped 2026-10-14: Sener Senior Civil Engineer Rail: P.Eng required, 20+ yrs
+https://ca.linkedin.com/jobs/view/4477198696  # skipped 2026-10-14: Egis Requirements Management Lead: P.Eng required, 12-18 yrs systems engineering
+https://ca.linkedin.com/jobs/view/4476900601  # skipped 2026-10-14: AtkinsRealis Intermediate Planner: construction scheduling and cost control
+https://ca.linkedin.com/jobs/view/4478179276  # skipped 2026-10-14: Metrolinx Senior Manager Program Controls: cost/schedule controls, outside field
+https://ca.linkedin.com/jobs/view/4476689051  # skipped 2026-10-14: Ontario Senior Research Analyst: workforce policy analytics, not transportation
+https://ca.linkedin.com/jobs/view/4469201618  # skipped 2026-10-14: Dillon Municipal Engineering PM: water/wastewater, P.Eng
+https://ca.linkedin.com/jobs/view/4470490295  # skipped 2026-10-14: RV Anderson Senior Project Engineer: P.Eng required
+https://ca.linkedin.com/jobs/view/4440846545  # skipped 2026-10-14: Arup Senior ITS Engineer: P.Eng, 10+ yrs ITS, Vancouver
+https://ca.linkedin.com/jobs/view/4466895853  # skipped 2026-10-14: WSP Senior PM Highways: P.Eng, 10+ yrs MTO highway design
+https://ca.linkedin.com/jobs/view/4417762804  # skipped 2026-10-14: Tatham Road Design PM: P.Eng required
+https://ca.linkedin.com/jobs/view/4476490230  # skipped 2026-10-14: Catch Recruitment Senior Transportation Engineer: P.Eng, 8-10+ yrs
