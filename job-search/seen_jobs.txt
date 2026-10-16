@@ -233,3 +233,18 @@ https://ca.linkedin.com/jobs/view/4477042950  # skipped 2026-10-15: YVR GIS Spec
 https://ca.linkedin.com/jobs/view/4470490820  # skipped 2026-10-15: RVA Senior PM Transportation: P.Eng/CET required, 15+ yrs design engineering
 https://ca.linkedin.com/jobs/view/4477054403
 https://ca.linkedin.com/jobs/view/4479725234
+https://ca.linkedin.com/jobs/view/4469749620  # skipped 2026-10-16: Arcadis Senior Rail Transportation Planner: 20+ yrs and RPP or P.Eng required
+https://ca.linkedin.com/jobs/view/4469749619  # skipped 2026-10-16: Arcadis Senior Ports Planner: RPP required, 15+ yrs
+https://ca.linkedin.com/jobs/view/4479163622  # skipped 2026-10-16: SYSTRA Rail Access Planner: 15+ yrs rail access, leads staff
+https://ca.linkedin.com/jobs/view/4478489899  # skipped 2026-10-16: WSP Senior Planner Public Engagement: RPP required, 12+ yrs
+https://ca.linkedin.com/jobs/view/4451914740  # skipped 2026-10-16: HDR Senior Transportation Engineer: P.Eng required, roadway design
+https://ca.linkedin.com/jobs/view/4480189895  # skipped 2026-10-16: GFT PM Municipal Roads: P.Eng required
+https://ca.linkedin.com/jobs/view/4480135498  # skipped 2026-10-16: Egis PM Highways: P.Eng required, highway design
+https://ca.linkedin.com/jobs/view/4480306724  # skipped 2026-10-16: Bantrel Program Integration Manager: 15+ yrs engineering, energy/industrial
+https://ca.linkedin.com/jobs/view/4471643207  # skipped 2026-10-16: Dillon Transportation Engineer Windsor: P.Eng licensed required
+https://ca.linkedin.com/jobs/view/4471631513  # skipped 2026-10-16: Dillon Transportation Engineer Kitchener: P.Eng licensed required
+https://ca.linkedin.com/jobs/view/4480174715  # skipped 2026-10-16: Dillon GIS Analyst Alberta: entry-level web GIS developer role, ArcGIS Enterprise and Power BI lacking
+https://ca.linkedin.com/jobs/view/4480186385  # skipped 2026-10-16: Esri Canada Technical PM: agile software delivery, outside field
+https://ca.linkedin.com/jobs/view/4479158753  # skipped 2026-10-16: SYSTRA Design Manager: rail civil design delivery, engineering design lead
+https://ca.linkedin.com/jobs/view/4479155912  # skipped 2026-10-16: SYSTRA Risk Analyst: risk management outside field
+https://jobs.toronto.ca/jobsatcity/job/Toronto-PROJECT-MANAGER-TRANSPORTATION-SERVICES-ON-M5V3C6/607004717/
