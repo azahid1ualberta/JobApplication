@@ -50,7 +50,7 @@ COVER_4479640432 = letter(
         "I have not supervised staff. I have not worked on property acquisition, utility relocation or permit "
         "approvals, I have not managed a project budget or administered a construction contract, and I know "
         "design-build delivery and the Building Transit Faster Act from reading rather than from practice. I "
-        "do not hold a PMP or a P.Eng. I am applying because the coordination and negotiation underneath the "
+        "do not hold a PMP or a P.Eng., and I do not have the Ontario Class G licence the posting requires for site travel. I am applying because the coordination and negotiation underneath the "
         "role are work I already do from the City's side of the table, and I would like to move into project "
         "leadership on transit.",
 

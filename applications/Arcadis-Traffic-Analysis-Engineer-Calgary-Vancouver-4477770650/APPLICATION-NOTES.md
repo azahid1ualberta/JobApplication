@@ -5,7 +5,7 @@
 | **Employer** | Arcadis, Transportation |
 | **Location** | Calgary, AB (https://ca.linkedin.com/jobs/view/4477770650) and Vancouver, BC (https://ca.linkedin.com/jobs/view/4477766809); same text |
 | **Type** | Full-time |
-| **Pay** | Not shown |
+| **Pay** | $80,000 - $120,000 |
 | **Posted** | 17 Oct 2026 |
 | **Closes** | Not shown |
 

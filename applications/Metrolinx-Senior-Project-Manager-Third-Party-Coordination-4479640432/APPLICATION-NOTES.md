@@ -11,7 +11,7 @@
 | **Link** | https://ca.linkedin.com/jobs/view/4479640432 |
 
 ## Verdict
-A reach, built because it is a senior transit project-delivery role and you asked for those to be matched. It is a people-leadership role over property, utilities, permits and stakeholder specialists on a design-build project. Your coordination and agency experience is real but your record has no team leadership, budgets, contracts or permitting. Odds are low; the letter says so plainly.
+A reach, built because (note the posting requires a Class G licence, which you do not hold; the criteria's skip rule covers professional licences, so I built it and flagged it. Skip it if you consider this disqualifying) it is a senior transit project-delivery role and you asked for those to be matched. It is a people-leadership role over property, utilities, permits and stakeholder specialists on a design-build project. Your coordination and agency experience is real but your record has no team leadership, budgets, contracts or permitting. Odds are low; the letter says so plainly.
 
 ## Where you stand
 
@@ -25,6 +25,7 @@ A reach, built because it is a senior transit project-delivery role and you aske
 | Building Transit Faster Act | **No** working knowledge |
 | Stakeholder management and negotiation | **Yes**, from the City's side |
 | PMP (asset) | **No** |
+| Valid Ontario Class G licence (stated as required) | **No**: this is a gap the posting states as a requirement; the letter says so |
 
 ## What the documents do
 - **Resume:** leads with development review, coordination with agencies and briefing notes; keeps the Crew Variance Tool and command line workflow (Capital Projects, not your old team).
