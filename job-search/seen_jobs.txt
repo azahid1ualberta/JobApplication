@@ -260,3 +260,11 @@ https://ca.linkedin.com/jobs/view/4480393449  # skipped 2026-10-17: Woodstock Ma
 https://ca.linkedin.com/jobs/view/4477775619  # skipped 2026-10-17: tk accelis Transportation Specialist: freight logistics
 https://ca.linkedin.com/jobs/view/4453711847  # skipped 2026-10-17: Seaway Network Specialist: IT networks
 https://ca.linkedin.com/jobs/view/4453211000  # skipped 2026-10-17: Aecon Technical Director: construction, not read in detail
+https://ca.linkedin.com/jobs/view/4454819362  # skipped 2026-10-18: EXP Lead Traffic Engineer/PM Hamilton: P.Eng required, 10+ yrs, RAQS
+https://ca.linkedin.com/jobs/view/4461920961  # skipped 2026-10-18: Hatch PM/Senior Highway Engineer: P.Eng required, 15 yrs minimum
+https://ca.linkedin.com/jobs/view/4424468634  # skipped 2026-10-18: GHD Lead Track Engineer: P.Eng required, 15-20+ yrs, track design
+https://ca.linkedin.com/jobs/view/4436263110  # skipped 2026-10-18: GHD Senior Track Engineer: P.Eng required, 15+ yrs, track design
+https://ca.linkedin.com/jobs/view/4472084065  # skipped 2026-10-18: Deloitte Capital Projects Advisory: project controls/cost consulting, outside field
+https://ca.linkedin.com/jobs/view/4461941364  # skipped 2026-10-18: MEC Project Controls Manager: electrical construction cost/schedule controls, outside field
+https://www.careerbeacon.com/en/job-33/3528911/wsp/senior-environmental-planner-transportation-and-transit/toronto-on  # skipped 2026-10-18: WSP Sr Environmental Planner: validThrough 2026-10-09 (expired); 10-15 yrs EA experience, outside his record
+https://www.careerbeacon.com/en/job-33/3519656/metrolinx/senior-advisor-go-project-planning/canada-sk  # skipped 2026-10-18: Metrolinx Sr Advisor GO Project Planning: validThrough 2026-08-18, expired
