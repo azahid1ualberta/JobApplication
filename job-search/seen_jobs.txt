@@ -268,3 +268,13 @@ https://ca.linkedin.com/jobs/view/4472084065  # skipped 2026-10-18: Deloitte Cap
 https://ca.linkedin.com/jobs/view/4461941364  # skipped 2026-10-18: MEC Project Controls Manager: electrical construction cost/schedule controls, outside field
 https://www.careerbeacon.com/en/job-33/3528911/wsp/senior-environmental-planner-transportation-and-transit/toronto-on  # skipped 2026-10-18: WSP Sr Environmental Planner: validThrough 2026-10-09 (expired); 10-15 yrs EA experience, outside his record
 https://www.careerbeacon.com/en/job-33/3519656/metrolinx/senior-advisor-go-project-planning/canada-sk  # skipped 2026-10-18: Metrolinx Sr Advisor GO Project Planning: validThrough 2026-08-18, expired
+https://ca.linkedin.com/jobs/view/4480230433  # skipped 2026-10-19: Toronto Water Engineer: P.Eng. mandatory, stormwater/water infrastructure, outside field
+https://ca.linkedin.com/jobs/view/4479983188  # skipped 2026-10-19: SYSTRA Interface Engineer LRT: P.Eng. certificate plus 8-10+ yrs multi-discipline rail, design interface management
+https://ca.linkedin.com/jobs/view/4454809463  # skipped 2026-10-19: EXP Lead Traffic Engineer/PM: P.Eng. required, 10+ yrs, RAQS, supervises team
+https://ca.linkedin.com/jobs/view/4454823352  # skipped 2026-10-19: EXP Lead Traffic Engineer/PM: P.Eng. required, 10+ yrs, RAQS, supervises team
+https://ca.linkedin.com/jobs/view/4454805646  # skipped 2026-10-19: EXP Lead Traffic Engineer/PM: P.Eng. required, 10+ yrs, RAQS, supervises team
+https://ca.linkedin.com/jobs/view/4453201834  # skipped 2026-10-19: Aecon Project Controls Director: finance/cost controls, outside field
+https://ca.linkedin.com/jobs/view/4469624410  # skipped 2026-10-19: SLR Senior Groundwater Modeler: hydrogeology, outside field
+https://ca.linkedin.com/jobs/view/4480965709  # skipped 2026-10-19: FedEx Engineering Specialist V: facilities/equipment engineering, outside field
+https://ca.linkedin.com/jobs/view/4478257052  # skipped 2026-10-19: Overstory Staff Data Engineer: software, outside field
+https://ca.linkedin.com/jobs/view/4480919977  # skipped 2026-10-19: Surgical Clinical Reviewer: healthcare, outside field
