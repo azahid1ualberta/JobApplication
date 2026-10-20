@@ -278,3 +278,22 @@ https://ca.linkedin.com/jobs/view/4469624410  # skipped 2026-10-19: SLR Senior G
 https://ca.linkedin.com/jobs/view/4480965709  # skipped 2026-10-19: FedEx Engineering Specialist V: facilities/equipment engineering, outside field
 https://ca.linkedin.com/jobs/view/4478257052  # skipped 2026-10-19: Overstory Staff Data Engineer: software, outside field
 https://ca.linkedin.com/jobs/view/4480919977  # skipped 2026-10-19: Surgical Clinical Reviewer: healthcare, outside field
+https://ca.linkedin.com/jobs/view/4481507029  # skipped 2026-10-20: Jacobs Risk Analyst Transit/Rail: project risk and controls, no risk-analysis background
+https://ca.linkedin.com/jobs/view/4413631625  # skipped 2026-10-20: WSP PM Transportation Engineering Vancouver: P.Eng (EGBC) required
+https://ca.linkedin.com/jobs/view/4413642412  # skipped 2026-10-20: WSP PM Transportation Engineering Langley: P.Eng (EGBC) required, same posting
+https://ca.linkedin.com/jobs/view/4478486927  # skipped 2026-10-20: WSP Junior GIS Analyst Calgary: junior earth/environment GIS role, below his level
+https://ca.linkedin.com/jobs/view/4478802291  # skipped 2026-10-20: WSP Junior GIS Analyst Edmonton: same as Calgary
+https://ca.linkedin.com/jobs/view/4478833388  # skipped 2026-10-20: Nunavut Capital Planner: petroleum products capital, outside field
+https://ca.linkedin.com/jobs/view/4338863756  # skipped 2026-10-20: Duplicate of built Dillon Senior Transportation Planner-Engineer 4338753958
+https://ca.linkedin.com/jobs/view/4481265394  # skipped 2026-10-20: Esri Canada Bilingual NG9-1-1 analyst: French required
+https://ca.linkedin.com/jobs/view/4435471896  # skipped 2026-10-20: WSP Buildings Digital Asset Data Lead: buildings, outside field
+https://ca.linkedin.com/jobs/view/4478609668  # skipped 2026-10-20: Alstom Digitalization Specialist: IT/digital, outside field
+https://ca.linkedin.com/jobs/view/4471269623  # skipped 2026-10-20: KPMG Sr Manager Major Projects Advisory: advisory/finance, outside field
+https://ca.linkedin.com/jobs/view/4481298871  # skipped 2026-10-20: AtkinsRealis Construction Programs Director: construction, outside field
+https://ca.linkedin.com/jobs/view/4481505695  # skipped 2026-10-20: AtkinsRealis Construction Programs Director Pickering: construction, outside field
+https://ca.linkedin.com/jobs/view/4480251325  # skipped 2026-10-20: Metrolinx Construction Mgmt Field Specialist: site construction, outside field
+https://ca.linkedin.com/jobs/view/4481517116  # skipped 2026-10-20: AtkinsRealis RAMS Analyst: rail safety assurance, outside field
+https://ca.linkedin.com/jobs/view/4481509220  # skipped 2026-10-20: AtkinsRealis RAMS Analyst: same
+https://ca.linkedin.com/jobs/view/4480475555  # skipped 2026-10-20: City of Toronto Division Chief: IT technology leadership, outside field
+https://jobs.toronto.ca/jobsatcity/job/Toronto-ENGINEER-ON-M/607097217/  # skipped 2026-10-20: Toronto Water Engineer: water infrastructure, outside field
+https://ca.linkedin.com/jobs/view/4480256435

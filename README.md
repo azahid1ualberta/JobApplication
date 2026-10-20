@@ -117,6 +117,7 @@ Today is **30 September 2026**.
 | [Project Manager, Rail & Transit](applications/Egis-Project-Manager-Rail-Transit-4467784730) | Egis, Toronto | Not shown | **Low.** 10+ yrs delivery. |
 | [Aviation Planner](applications/WSP-Aviation-Planner-4429033181) | WSP, Ontario | Not shown | **Low.** 7–10 yrs aviation planning. |
 | [Project Manager, Transportation Major Projects](applications/Binnie-Project-Manager-Transportation-Major-Projects-4462349430) | Binnie, **Burnaby, BC** | Not shown | **Low.** Owner's engineer; Class 5 licence and vehicle. |
+| [Senior Planning Advisor](applications/Infrastructure-Ontario-Senior-Planning-Advisor-4480256435) | Infrastructure Ontario, Toronto | Nov 2, 2026 | **Medium-low.** Capital intake, planning data and reporting; dashboard and briefing-note work fits. No portfolio management, cost estimation or Power BI. $90,100–$114,000. |
 
 **Read and not built** (your rule's skips: licence mandatory, 15+ years, out of field, French or closed):
 TTC Program Manager, Operations Support (closed 8 Oct); TTC Senior Manager, Transportation (subway
