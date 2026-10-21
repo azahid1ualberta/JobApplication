@@ -297,3 +297,19 @@ https://ca.linkedin.com/jobs/view/4481509220  # skipped 2026-10-20: AtkinsRealis
 https://ca.linkedin.com/jobs/view/4480475555  # skipped 2026-10-20: City of Toronto Division Chief: IT technology leadership, outside field
 https://jobs.toronto.ca/jobsatcity/job/Toronto-ENGINEER-ON-M/607097217/  # skipped 2026-10-20: Toronto Water Engineer: water infrastructure, outside field
 https://ca.linkedin.com/jobs/view/4480256435
+https://ca.linkedin.com/jobs/view/4480496337
+https://ca.linkedin.com/jobs/view/4480740696
+https://ca.linkedin.com/jobs/view/4482109038  # skipped 2026-10-21: Halton PM I Transportation: closed Oct 14; PM II already built
+https://ca.linkedin.com/jobs/view/4472568872  # skipped 2026-10-21: JD Engineering: vague remote highway-design posting, unverifiable
+https://ca.linkedin.com/jobs/view/4376926895  # skipped 2026-10-21: Burnside Project Engineer Transit: P.Eng. required, civil design
+https://ca.linkedin.com/jobs/view/4482022671  # skipped 2026-10-21: Urban Systems Calgary: detailed roadway design lead, 8 yrs; not his work
+https://ca.linkedin.com/jobs/view/4471950619  # skipped 2026-10-21: Binnie: EGBC Engineer of Record required
+https://ca.linkedin.com/jobs/view/4482104229  # skipped 2026-10-21: Egis Sr Manager Roads: 15-20 years required
+https://ca.linkedin.com/jobs/view/4478984302  # skipped 2026-10-21: NORR PM Transportation: building architecture/engineering PM
+https://ca.linkedin.com/jobs/view/4480480496  # skipped 2026-10-21: Pearson Aviation Forecasting Manager: airline commercial analytics, Power BI, team lead
+https://ca.linkedin.com/jobs/view/4481758644  # skipped 2026-10-21: GFT Municipal Roads: P.Eng. required
+https://ca.linkedin.com/jobs/view/4469954450  # skipped 2026-10-21: ONxpress PM Stations: civil construction, 10+ yrs
+https://ca.linkedin.com/jobs/view/4480489787  # skipped 2026-10-21: Metrolinx Sr Mgr Construction Field Track: construction supervision
+https://ca.linkedin.com/jobs/view/4473678471  # skipped 2026-10-21: Alstom Senior Project Planner: French, manufacturing scheduling
+https://ca.linkedin.com/jobs/view/4481786150  # skipped 2026-10-21: Artelia duplicate of 4480740696
+https://ca.linkedin.com/jobs/view/4435482506  # skipped 2026-10-21: WSP Buildings data lead: outside field

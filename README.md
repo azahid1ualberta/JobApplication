@@ -79,6 +79,8 @@ Today is **30 September 2026**.
 | [Civil Project Engineer – Aviation](applications/WSP-Civil-Project-Engineer-Aviation-85226) (85226) | WSP, Ontario | Not shown (posted Apr) | Weak. Airport design, P.Eng. or eligible. $81,900–$112,800. |
 | [Aviation Project Manager](applications/Stantec-Aviation-Project-Manager-1006666) (1006666) | Stantec, **Calgary / Vancouver** | Not shown (posted Jul) | Very weak. 7+ years airport engineering, P.Eng. BC/AB, out of province. $111,700–$177,100. |
 | [Senior Aviation Planner](applications/CIMA-Senior-Aviation-Planner-REF3026P) (REF3026P) | CIMA+, Mississauga | Not shown | Very weak. 12+ years of airport planning strongly preferred. |
+| [Team Lead, Mobility and ITS](applications/Artelia-Team-Lead-Mobility-and-ITS-4480740696) (4480740696) | Artelia Canada, Mississauga | Not stated (posted 21 Oct) | **Long shot.** 10 years, team lead, ITS and P.Eng. missing. |
+| [Senior Project Engineer (13718)](applications/TTC-Senior-Project-Engineer-13718) | TTC, Major Projects (WERTL) | **23 Oct 2026** | **Weak-to-moderate.** Transit project coordination fits; capital delivery, budgets, 5 years do not. $115,570–$144,526. |
 
 ### Catch-up, 13 October: senior roles the daily runs missed
 
