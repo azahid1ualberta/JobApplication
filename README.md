@@ -80,6 +80,8 @@ Today is **30 September 2026**.
 | [Aviation Project Manager](applications/Stantec-Aviation-Project-Manager-1006666) (1006666) | Stantec, **Calgary / Vancouver** | Not shown (posted Jul) | Very weak. 7+ years airport engineering, P.Eng. BC/AB, out of province. $111,700–$177,100. |
 | [Senior Aviation Planner](applications/CIMA-Senior-Aviation-Planner-REF3026P) (REF3026P) | CIMA+, Mississauga | Not shown | Very weak. 12+ years of airport planning strongly preferred. |
 | [Team Lead, Mobility and ITS](applications/Artelia-Team-Lead-Mobility-and-ITS-4480740696) (4480740696) | Artelia Canada, Mississauga | Not stated (posted 21 Oct) | **Long shot.** 10 years, team lead, ITS and P.Eng. missing. |
+| [GIS Specialist II, Transportation](applications/Strathcona-County-GIS-Specialist-II-Transportation-4481159005) (4481159005) | Strathcona County, AB | Not stated (posted 21 Oct) | **Good fit on the work.** 5-year GIS minimum, staff mentoring and enterprise GIS missing; Alberta location. |
+| [Senior Project Manager, Hamilton LRT](applications/Metrolinx-Senior-Project-Manager-Hamilton-LRT-4481143114) (4481143114) | Metrolinx, Hamilton | Not stated (posted 21 Oct) | **Weak.** Capital delivery, contracts, budgets, team leadership and P.Eng. missing; in-office Hamilton. |
 | [Senior Project Engineer (13718)](applications/TTC-Senior-Project-Engineer-13718) | TTC, Major Projects (WERTL) | **23 Oct 2026** | **Weak-to-moderate.** Transit project coordination fits; capital delivery, budgets, 5 years do not. $115,570–$144,526. |
 
 ### Catch-up, 13 October: senior roles the daily runs missed

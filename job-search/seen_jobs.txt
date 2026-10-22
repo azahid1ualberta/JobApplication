@@ -313,3 +313,30 @@ https://ca.linkedin.com/jobs/view/4480489787  # skipped 2026-10-21: Metrolinx Sr
 https://ca.linkedin.com/jobs/view/4473678471  # skipped 2026-10-21: Alstom Senior Project Planner: French, manufacturing scheduling
 https://ca.linkedin.com/jobs/view/4481786150  # skipped 2026-10-21: Artelia duplicate of 4480740696
 https://ca.linkedin.com/jobs/view/4435482506  # skipped 2026-10-21: WSP Buildings data lead: outside field
+https://ca.linkedin.com/jobs/view/4482450409  # skipped 2026-10-22: Halton PM I Transportation: P.Eng. or C.E.T. certification required (PM II already built)
+https://ca.linkedin.com/jobs/view/4436247871  # skipped 2026-10-22: GHD Senior Track Engineer: P.Eng. and 15+ years required
+https://ca.linkedin.com/jobs/view/4455956181  # skipped 2026-10-22: VIA Rail Master Planner Major Projects: project scheduling, 7 yrs, Montreal; not transportation planning
+https://ca.linkedin.com/jobs/view/4472355900  # skipped 2026-10-22: Infrastructure Ontario Strategy Client Advisor: real estate advisory
+https://ca.linkedin.com/jobs/view/4437791105  # skipped 2026-10-22: Fujitsu GIS Project Manager: 10 yrs GIS PM mandatory, geomatics IT platform
+https://ca.linkedin.com/jobs/view/4451090460  # skipped 2026-10-22: Fujitsu GIS Project Manager duplicate
+https://ca.linkedin.com/jobs/view/4482441199  # skipped 2026-10-22: Fujitsu GIS Project Manager duplicate
+https://ca.linkedin.com/jobs/view/4482447116  # skipped 2026-10-22: Fujitsu GIS Project Manager duplicate
+https://ca.linkedin.com/jobs/view/4481158869  # skipped 2026-10-22: Metrolinx Senior BI Performance Analyst: Power BI/R, corporate reporting
+https://ca.linkedin.com/jobs/view/4481123876  # skipped 2026-10-22: Metrolinx Senior Strategist: corporate strategy, outside field
+https://ca.linkedin.com/jobs/view/4482173346  # skipped 2026-10-22: Esri Canada GIS PM Assessment: software implementation, property tax
+https://ca.linkedin.com/jobs/view/4482155297  # skipped 2026-10-22: SYSTRA Senior GIS Analyst: French required, 10+ yrs
+https://ca.linkedin.com/jobs/view/4482161075  # skipped 2026-10-22: SYSTRA Design Planning Manager: P6 scheduling, 10-15 yrs
+https://ca.linkedin.com/jobs/view/4482138809  # skipped 2026-10-22: SYSTRA Senior Transport Economist: French required, 10 yrs
+https://ca.linkedin.com/jobs/view/4482158193  # skipped 2026-10-22: SYSTRA GIS PM ALTO: French/Montreal, same family as other SYSTRA postings
+https://ca.linkedin.com/jobs/view/4478947207  # skipped 2026-10-22: Associated Engineering PM Roadways: P.Eng. 8+ yrs, roadway design
+https://ca.linkedin.com/jobs/view/4471641222  # skipped 2026-10-22: Dillon Transportation Engineer: P.Eng. or eligible, 8 yrs, detailed design
+https://ca.linkedin.com/jobs/view/4479420697  # skipped 2026-10-22: Consor Roadway Design Engineer: detailed roadway design
+https://ca.linkedin.com/jobs/view/4446356286  # skipped 2026-10-22: Green Infrastructure Partners Sr PM: structural steel
+https://ca.linkedin.com/jobs/view/4482144082  # skipped 2026-10-22: GE Vernova Senior Planner: manufacturing project planning, French
+https://ca.linkedin.com/jobs/view/4481143115  # skipped 2026-10-22: Metrolinx Construction Management Field Manager: construction
+https://ca.linkedin.com/jobs/view/4482143641  # skipped 2026-10-22: SYSTRA Engineering Manager Civil and Station: civil design, French
+https://ca.linkedin.com/jobs/view/4458845950  # skipped 2026-10-22: Arcadis Major Project Director Defence: defence projects director
+https://ca.linkedin.com/jobs/view/4473288534  # skipped 2026-10-22: McKesson Transportation Analyst: logistics
+https://ca.linkedin.com/jobs/view/4482164470  # skipped 2026-10-22: Egis Systems Assurance Manager: systems assurance, outside field
+https://ca.linkedin.com/jobs/view/4481159005
+https://ca.linkedin.com/jobs/view/4481143114
