@@ -82,6 +82,7 @@ Today is **30 September 2026**.
 | [Team Lead, Mobility and ITS](applications/Artelia-Team-Lead-Mobility-and-ITS-4480740696) (4480740696) | Artelia Canada, Mississauga | Not stated (posted 21 Oct) | **Long shot.** 10 years, team lead, ITS and P.Eng. missing. |
 | [GIS Specialist II, Transportation](applications/Strathcona-County-GIS-Specialist-II-Transportation-4481159005) (4481159005) | Strathcona County, AB | Not stated (posted 21 Oct) | **Good fit on the work.** 5-year GIS minimum, staff mentoring and enterprise GIS missing; Alberta location. |
 | [Senior Project Manager, Hamilton LRT](applications/Metrolinx-Senior-Project-Manager-Hamilton-LRT-4481143114) (4481143114) | Metrolinx, Hamilton | Not stated (posted 21 Oct) | **Weak.** Capital delivery, contracts, budgets, team leadership and P.Eng. missing; in-office Hamilton. |
+| [Senior Project Manager, Mobility Planning](applications/Hamilton-Senior-Project-Manager-Mobility-Planning-32289) (32289) | City of Hamilton | **28 Oct 2026, 4 pm** | **Reasonable stretch.** Transportation planning section lead; development review, TTS and rapid transit work match. Gaps: no team supervision, budgets, RFPs, IAP2 engagement, MCIP/RPP/C.E.T./P.Eng. (desirable only). Pay not stated. |
 | [Senior Project Engineer (13718)](applications/TTC-Senior-Project-Engineer-13718) | TTC, Major Projects (WERTL) | **23 Oct 2026** | **Weak-to-moderate.** Transit project coordination fits; capital delivery, budgets, 5 years do not. $115,570–$144,526. |
 
 ### Catch-up, 13 October: senior roles the daily runs missed

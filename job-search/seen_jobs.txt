@@ -340,3 +340,15 @@ https://ca.linkedin.com/jobs/view/4473288534  # skipped 2026-10-22: McKesson Tra
 https://ca.linkedin.com/jobs/view/4482164470  # skipped 2026-10-22: Egis Systems Assurance Manager: systems assurance, outside field
 https://ca.linkedin.com/jobs/view/4481159005
 https://ca.linkedin.com/jobs/view/4481143114
+https://ca.linkedin.com/jobs/view/4482702306
+https://ca.linkedin.com/jobs/view/4417892875  # skipped 2026-10-23: HDR Transportation Engineer Alberta: P.Eng. required, roadway design
+https://ca.linkedin.com/jobs/view/4418203212  # skipped 2026-10-23: HDR Transportation Engineer Calgary: P.Eng. required, roadway design
+https://ca.linkedin.com/jobs/view/4461663705  # skipped 2026-10-23: GHD Senior Civil Engineer Transportation: 10 yrs minimum, roadway design, engineer-led
+https://ca.linkedin.com/jobs/view/4481158343  # skipped 2026-10-23: WSP Senior Manager Highway and Municipal Roads: roads design business leadership, revenue targets
+https://ca.linkedin.com/jobs/view/4481374395  # skipped 2026-10-23: City of Calgary Leader Asset Information Mapping: utilities drafting/records, 8-10 yrs
+https://ca.linkedin.com/jobs/view/4482739185  # skipped 2026-10-23: Trillium PLAA Senior Specialist: permits and land access on Crosstown West, not planning
+https://ca.linkedin.com/jobs/view/4427755811  # skipped 2026-10-23: BCRTC Project Manager II Fleet: fleet capital delivery, contracts
+https://ca.linkedin.com/jobs/view/4481383325  # skipped 2026-10-23: Metrolinx Senior Manager Risk Advisory: enterprise risk, outside field
+https://ca.linkedin.com/jobs/view/4481392073  # skipped 2026-10-23: Metrolinx Risk Management Specialist: enterprise risk, outside field
+https://ca.linkedin.com/jobs/view/4429103898  # skipped 2026-10-23: Green Infrastructure Partners Lead Planner: construction scheduling in Primavera P6, not transportation planning
+https://ca.linkedin.com/jobs/view/4482768646  # skipped 2026-10-23: Bantrel Program Integration Manager (Ontario Line): 15+ yrs stated minimum, contract/handover delivery
