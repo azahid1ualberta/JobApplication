@@ -352,3 +352,44 @@ https://ca.linkedin.com/jobs/view/4481383325  # skipped 2026-10-23: Metrolinx Se
 https://ca.linkedin.com/jobs/view/4481392073  # skipped 2026-10-23: Metrolinx Risk Management Specialist: enterprise risk, outside field
 https://ca.linkedin.com/jobs/view/4429103898  # skipped 2026-10-23: Green Infrastructure Partners Lead Planner: construction scheduling in Primavera P6, not transportation planning
 https://ca.linkedin.com/jobs/view/4482768646  # skipped 2026-10-23: Bantrel Program Integration Manager (Ontario Line): 15+ yrs stated minimum, contract/handover delivery
+https://ca.linkedin.com/jobs/view/4473183706  # skipped 2026-10-24: APEGA P.Eng. required; Alberta highway design/construction supervision
+https://ca.linkedin.com/jobs/view/4438236929  # skipped 2026-10-24: P.Eng. or eligibility; municipal roadway/water design engineering, outside his field
+https://ca.linkedin.com/jobs/view/4481913531  # skipped 2026-10-24: traffic signal design, mandatory signal experience, CAD technologist
+https://ca.linkedin.com/jobs/view/4481520026  # skipped 2026-10-24: Ottawa LRT construction program manager; 3 yrs in charge, 2 yrs staff mgmt, hands-on construction management; stretch too far
+https://ca.linkedin.com/jobs/view/4435674572  # skipped 2026-10-24: 10 yrs PM and P.Eng. APEGA/EGBC; highway design delivery
+https://ca.linkedin.com/jobs/view/4472855163  # skipped 2026-10-24: Purolator freight logistics planner, not transportation planning
+https://ca.linkedin.com/jobs/view/4482302553  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4465866429  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4481042617  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4481364330  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4460092334  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4464812980  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4483145402  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4474352009  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4480688637  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4481952607  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4481000009  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4483120609  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4481951526  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4483159575  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4480673901  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4481908714  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4481953792  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4481981104  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4482894862  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4481978012  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4483101333  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4481920664  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4483140848  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4481973381  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4483163145  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4483122671  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4483132374  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4436270669  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4480076273  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4418211371  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4472329081  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4472381709  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4480701918  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4435210603  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
+https://ca.linkedin.com/jobs/view/4482304673
