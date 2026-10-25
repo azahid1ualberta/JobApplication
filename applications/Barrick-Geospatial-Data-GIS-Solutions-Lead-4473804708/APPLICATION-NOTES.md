@@ -5,7 +5,7 @@
 | **Division** | Exploration (works with the Regional Geosciences Data & Analytics Manager); gold mining company |
 | **Location** | Toronto, ON; occasional travel to exploration projects and regional offices |
 | **Type** | Full-time |
-| **Pay** | Not stated in the posting |
+| **Pay** | CAD 119,000 – 133,000 per year |
 | **Posted** | LinkedIn 24 Oct 2026 |
 | **Closes** | Not stated |
 | **Link** | https://ca.linkedin.com/jobs/view/4473804708 |
@@ -31,6 +31,6 @@ The resume leads with the ROW-width dataset, the dashboard and data work, then t
 
 ## Before you apply
 - A mining employer is a change of industry; consider whether you want that.
-- Salary is not stated.
+- The pay (CAD 119,000–133,000) is above your current City band.
 
 ## Priority: Low
