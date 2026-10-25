@@ -393,3 +393,22 @@ https://ca.linkedin.com/jobs/view/4472381709  # skipped 2026-10-24: title and em
 https://ca.linkedin.com/jobs/view/4480701918  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
 https://ca.linkedin.com/jobs/view/4435210603  # skipped 2026-10-24: title and employer outside his field (logistics, finance, IT, utilities, construction, procurement, safety assurance, French)
 https://ca.linkedin.com/jobs/view/4482304673
+https://ca.linkedin.com/jobs/view/4437553443  # skipped 2026-10-25: Utilities coordination PM, 8+ yrs utilities relocation; outside his field
+https://ca.linkedin.com/jobs/view/4483108549  # skipped 2026-10-25: Construction technical office lead, rail construction; outside his field (construction)
+https://ca.linkedin.com/jobs/view/4436253524  # skipped 2026-10-25: Track design engineer, P.Eng required and 15+ years
+https://ca.linkedin.com/jobs/view/4436261230  # skipped 2026-10-25: Track design engineer, P.Eng required and 15+ years
+https://ca.linkedin.com/jobs/view/4436250663  # skipped 2026-10-25: Track design engineer, P.Eng required and 15+ years
+https://ca.linkedin.com/jobs/view/4482006195  # skipped 2026-10-25: Environmental assessment planner, 10 yrs natural resources; outside his field
+https://ca.linkedin.com/jobs/view/4480403173  # skipped 2026-10-25: Parks and trail development manager; parks, outside his field
+https://ca.linkedin.com/jobs/view/4438253112  # skipped 2026-10-25: Roadway/stormwater detailed design engineer, P.Eng or eligibility; outside his field
+https://ca.linkedin.com/jobs/view/4482150537  # skipped 2026-10-25: Telecom fibre build PMO director; outside his field
+https://ca.linkedin.com/jobs/view/4418986106  # skipped 2026-10-25: Signals/drainage/water/environmental/non-transport engineering or healthcare; outside his field
+https://ca.linkedin.com/jobs/view/4420478868  # skipped 2026-10-25: Signals/drainage/water/environmental/non-transport engineering or healthcare; outside his field
+https://ca.linkedin.com/jobs/view/4437478900  # skipped 2026-10-25: Signals/drainage/water/environmental/non-transport engineering or healthcare; outside his field
+https://ca.linkedin.com/jobs/view/4472769829  # skipped 2026-10-25: Signals/drainage/water/environmental/non-transport engineering or healthcare; outside his field
+https://ca.linkedin.com/jobs/view/4462620394  # skipped 2026-10-25: Signals/drainage/water/environmental/non-transport engineering or healthcare; outside his field
+https://ca.linkedin.com/jobs/view/4462600609  # skipped 2026-10-25: Signals/drainage/water/environmental/non-transport engineering or healthcare; outside his field
+https://ca.linkedin.com/jobs/view/4482687491  # skipped 2026-10-25: Signals/drainage/water/environmental/non-transport engineering or healthcare; outside his field
+https://ca.linkedin.com/jobs/view/4483355885  # skipped 2026-10-25: Signals/drainage/water/environmental/non-transport engineering or healthcare; outside his field
+https://ca.linkedin.com/jobs/view/4466377894
+https://ca.linkedin.com/jobs/view/4473804708
