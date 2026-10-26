@@ -4,10 +4,11 @@
 |---|---|
 | **Division** | Engineering & Safety Division (ESD) |
 | **Location** | 20 Bay Street, Toronto; in-office |
-| **Type** | Full-time; permanent or contract not stated on the LinkedIn copy |
+| **Type** | Full-time, permanent (not a contract) |
 | **Pay range** | $110,854 – $153,872 |
 | **Posted** | 9 Oct 2026 |
-| **Closes** | Not shown on LinkedIn; check the Metrolinx portal |
+| **Job ID** | 117344 |
+| **Closes** | **26 Oct 2026, 11:59 PM — today** |
 | **Link** | https://ca.linkedin.com/jobs/view/4476855569 |
 
 ## Verdict
@@ -52,3 +53,6 @@ requirement.
   dataset is structured, kept current and used by others; that is your governance story so far.
 
 ## Priority: High
+
+## Update, 26 October
+You sent the official posting (Job ID 117344). **It closes today at 11:59 PM.** The letter is re-dated 26 October with the job ID in the subject line, and the resume now carries your CGPAs, MSc funding and scholarships.
