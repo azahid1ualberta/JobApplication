@@ -3,7 +3,7 @@
 Criteria.md and Resume_Content.md from Drive were identical to the repo copies.
 
 ## Built (1)
-- **Senior Project Manager, Transportation/Traffic Engineering & Roadway Safety**, Dillon Consulting, Toronto (same ad at 8 other Ontario offices). Closing not stated. Verdict: weak (10 years, P.Eng. or eligible, business development missing). Resume: https://github.com/azahid1ualberta/JobApplication/blob/claude/tailored-resume-cover-letters-t2n8vx/applications/Dillon-Senior-Project-Manager-Traffic-Engineering-Roadway-Safety-4483555546/Abdullah_Al_Zahid_Resume.pdf | Cover letter: https://github.com/azahid1ualberta/JobApplication/blob/claude/tailored-resume-cover-letters-t2n8vx/applications/Dillon-Senior-Project-Manager-Traffic-Engineering-Roadway-Safety-4483555546/Abdullah_Al_Zahid_Cover_Letter.pdf
+- **Senior Project Manager, Transportation/Traffic Engineering & Roadway Safety**, Dillon Consulting, Toronto (same ad at 8 other Ontario offices). Pay $100,000-$175,000. Closing not stated. Verdict: weak (10 years, P.Eng. or eligible, business development missing). Resume: https://github.com/azahid1ualberta/JobApplication/blob/claude/tailored-resume-cover-letters-t2n8vx/applications/Dillon-Senior-Project-Manager-Traffic-Engineering-Roadway-Safety-4483555546/Abdullah_Al_Zahid_Resume.pdf | Cover letter: https://github.com/azahid1ualberta/JobApplication/blob/claude/tailored-resume-cover-letters-t2n8vx/applications/Dillon-Senior-Project-Manager-Traffic-Engineering-Roadway-Safety-4483555546/Abdullah_Al_Zahid_Cover_Letter.pdf
 
 Tracker: https://github.com/azahid1ualberta/JobApplication/blob/claude/tailored-resume-cover-letters-t2n8vx/job-search/Job_Tracker.xlsx
 
