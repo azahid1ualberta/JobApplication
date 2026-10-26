@@ -46,8 +46,7 @@ requirement.
   asset management or SOGR, no EAM, no staff or vendor leadership, no certification.
 
 ## Before you apply
-- Check the Metrolinx portal for the closing date and job ID. It blocks automated reads, so this
-  was read through LinkedIn's public copy.
+- **Apply today**: Job ID 117344 closes 26 October at 11:59 PM on the Metrolinx careers site.
 - The role is in-office at 20 Bay Street.
 - In an interview, expect questions on asset management. Be ready to talk about how your ROW
   dataset is structured, kept current and used by others; that is your governance story so far.
