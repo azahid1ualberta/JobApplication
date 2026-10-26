@@ -43,6 +43,9 @@ RESUME_MX_GIS = resume(
                   "processing and automation. Data integration, validation and dashboards. OpenTrack, VISSIM, "
                   "Synchro and MATSim. AutoCAD and Civil 3D. Advanced Excel, including large multi-source "
                   "workbooks. Briefing notes and presentations for senior staff."))
+# He took a graduate course in GIS during his MSc (he told us on 26 October): show it on GIS resumes
+RESUME_MX_GIS = [l.replace("fully funded by the university.", "fully funded by the university; graduate course in GIS.")
+                 for l in RESUME_MX_GIS]
 
 COVER_MX_GIS = letter(
     "Talent Acquisition", "Engineering & Safety Division", "Metrolinx, 20 Bay Street, Toronto, ON",
@@ -65,14 +68,15 @@ COVER_MX_GIS = letter(
         "services to test how infrastructure constraints and speed restrictions changed run times and "
         "reliability, and presented that evidence to schedulers, operations staff and engineers. " + TOOLS_ALSO
         + " My master's thesis used GIS and macro-simulation to assess community "
-        "transportation capacity for wildfire evacuation.",
+        "transportation capacity for wildfire evacuation, and I took a graduate course in GIS as part of the "
+        "program.",
 
         "I should be straightforward about the gaps. I have not led a GIS program or set geospatial "
         "governance, standards and data models for an organization; my GIS work has been building and "
         "maintaining datasets and tools within one division. I have not worked in asset management or State "
         "of Good Repair planning, integrated GIS with an enterprise asset management system, or led staff, "
-        "consultants or vendors, and I do not hold a professional certification. I am applying because the "
-        "spatial analysis and data integration at the centre of the role is the work I do now.",
+        "consultants or vendors. I am applying because the spatial analysis and data integration at the centre "
+        "of the role is the work I do now.",
 
         "Thank you for considering my application.",
     ])

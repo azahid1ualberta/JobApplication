@@ -76,6 +76,9 @@ letter. Key points:
   part-time, 2025–2027). He asked on 26 October for the CGPAs, scholarships and funding to be on
   every resume. They are in the shared `EDU` block in `src/content3.py`, so do not remove them.
   He gave the MSc funding in chat; it is not in `Resume_Content.md`, and it may still be used.
+  He also took **a graduate course in GIS during his MSc** (told us on 26 October; course name not
+  given). Mention it on GIS roles (`RESUME_MX_GIS` in `src/content28.py` adds it to the MSc line),
+  and never write that he has no GIS training. Do not call it a certification.
 - **Tools he has:** OpenTrack, TrainPlan, VISSIM, Synchro, MATSim; Python, SQL, JavaScript;
   ArcGIS Pro, QGIS, MapBox; **AutoCAD, Civil 3D**; Excel; Adobe Photoshop/Illustrator, Blender.
   (An earlier version of this file wrongly listed AutoCAD/Civil 3D as gaps — corrected Oct 2026.)

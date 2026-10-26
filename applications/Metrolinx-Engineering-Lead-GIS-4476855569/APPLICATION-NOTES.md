@@ -35,7 +35,7 @@ requirement.
 | Asset management principles, SOGR, lifecycle planning | **No** |
 | Working with senior stakeholders across functions | Yes: briefing notes and presentations to managers in other divisions |
 | Leading consultants, vendors or teams (asset) | **No** |
-| Professional certification (asset) | **No** |
+| Professional certification (asset) | No formal certification; you took a graduate course in GIS during your MSc |
 
 ## What the documents do
 - **Resume:** leads with the ROW and road datasets (QGIS, MapBox, JavaScript, Python) and the
@@ -43,7 +43,7 @@ requirement.
   your master's research.
 - **Letter:** explains that your GIS work is the data integration this role describes, at the
   scale of one division. It names the gaps plainly: no GIS program leadership, no governance, no
-  asset management or SOGR, no EAM, no staff or vendor leadership, no certification.
+  asset management or SOGR, no EAM, no staff or vendor leadership. It mentions the graduate GIS course from your MSc and no longer says you lack a certification.
 
 ## Before you apply
 - **Apply today**: Job ID 117344 closes 26 October at 11:59 PM on the Metrolinx careers site.
@@ -55,3 +55,5 @@ requirement.
 
 ## Update, 26 October
 You sent the official posting (Job ID 117344). **It closes today at 11:59 PM.** The letter is re-dated 26 October with the job ID in the subject line, and the resume now carries your CGPAs, MSc funding and scholarships.
+
+Later on 26 October: you pointed out that you took a graduate course in GIS during your MSc. The letter now mentions it, the line saying you hold no certification is gone, and the resume's MSc line includes it.
