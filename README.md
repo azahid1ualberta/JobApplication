@@ -60,6 +60,10 @@ Today is **30 September 2026**.
 | [64483](applications/City-of-Toronto-Project-Manager-Business-Transformation-Parks-and-Recreation-64483) | Project Manager Business Transformation | Parks & Recreation, CPDD | 6 Oct | Moderate-to-weak. Automation and adoption match; Prosci/Lean Six Sigma and enterprise change do not. |
 | [66777](applications/City-of-Toronto-Project-Manager-TW-Capital-Planning-Implementation-66777) | Project Manager TW | Toronto Water, Capital Planning & Implementation | 6 Oct | Weak. **Class G is a hard requirement.** 3 positions, PTM2. |
 | [65977](applications/City-of-Toronto-Project-Manager-Priority-Development-Review-65977) | Project Manager, Priority Development Review | Development Review | 15 Oct | **Moderate — best of this batch.** You review these applications every day. PTM3. |
+| [65654](applications/City-of-Toronto-Engineer-TW-Process-Innovation-Energy-65654) | Engineer, Process Innovation & Energy | Toronto Water, EEEP | **26 Oct (today)** | Very weak. P.Eng. and Class G required; water and wastewater process engineering. PTM2. |
+| [67513](applications/City-of-Toronto-Project-Manager-Transportation-Services-Operations-67513) | Project Manager, Transportation Services | Transportation Services, Operations Maintenance (CDDI Area 2) | **29 Oct** | Very weak. Winter operations, staff supervision, budgets, EWMS/SAP; Class G required. PTM3. |
+| [67403](applications/City-of-Toronto-Engineer-TW-Policy-Development-67403) | Engineer, WIM Policy Development | Toronto Water, Water Infrastructure Management | 3 Nov | Weak. Policy and Council-report work fits; P.Eng. and 3 yrs stormwater required. PTM2. |
+| [67098](applications/City-of-Toronto-Project-Lead-Transportation-Services-67098) | Project Lead, Transportation Services | Transportation Services, Electrical Construction & Maintenance | 9 Nov | Weak. Traffic signals, ITS or streetlighting experience and Class G required; coordination and reporting fit. PTM2, 2 positions. |
 
 ### Consulting firms
 

@@ -424,3 +424,7 @@ https://ca.linkedin.com/jobs/view/4481001515  # skipped 2026-10-26: not transpor
 https://ca.linkedin.com/jobs/view/4446153184  # skipped 2026-10-26: not transportation work or P.Eng required
 https://ca.linkedin.com/jobs/view/4446152198  # skipped 2026-10-26: not transportation work or P.Eng required
 https://ca.linkedin.com/jobs/view/4483555546
+https://hcm-ca10.hr.cloud.sap/xi/ui/rcmcommon/pages/jobReqPrintPreview.xhtml?jobID=67098
+https://hcm-ca10.hr.cloud.sap/xi/ui/rcmcommon/pages/jobReqPrintPreview.xhtml?jobID=67403
+https://hcm-ca10.hr.cloud.sap/xi/ui/rcmcommon/pages/jobReqPrintPreview.xhtml?jobID=67513
+https://hcm-ca10.hr.cloud.sap/xi/ui/rcmcommon/pages/jobReqPrintPreview.xhtml?jobID=65654
