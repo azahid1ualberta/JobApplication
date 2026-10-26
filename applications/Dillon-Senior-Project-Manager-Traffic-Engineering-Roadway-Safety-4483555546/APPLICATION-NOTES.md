@@ -5,7 +5,7 @@
 | **Division** | Integrated Mobility Discipline; employee-owned consultancy |
 | **Location** | Toronto (same ad at North York, Hamilton, Oakville, Vaughan, Guelph, Kitchener, Kingston, Ottawa); hybrid |
 | **Type** | Full-time, senior role (Project Director / Senior PM / Strategic Advisor) |
-| **Pay** | Not stated in the posting |
+| **Pay** | $100,000 - $175,000 |
 | **Posted** | LinkedIn 26 Oct 2026 |
 | **Closes** | Not stated |
 | **Link** | https://ca.linkedin.com/jobs/view/4483555546 |
@@ -22,10 +22,10 @@ Weak. The field matches (traffic impact studies, master plans, corridor and righ
 | 10+ years progressive experience | No; about 4.5 years |
 | Traffic impact studies, road safety audits, parking studies, EA transportation | Reviewed TIS at the City; no audits, parking studies or EA authorship |
 | Multi-modal corridor / right-of-way / cross-sections | Partly: ROW width dataset, development review |
-| Project management, budgets, QC | Ran assigned projects; no budget management |
+| Project management, budgets, QC (six years in a PM capacity) | Ran assigned projects; no budget management; not six years as a PM |
 | Business development, proposals | No |
 | Mentoring staff | No supervision |
-| Micro-simulation tools | Yes (Synchro, VISSIM) |
+| Synchro, VISSIM; EMME/VISUM familiarity | Synchro and VISSIM yes; EMME and VISUM no |
 
 ## What the documents do
 Resume leads with development review, TTS analysis and Synchro/VISSIM; Crew Variance Tool and command line workflow are included. Letter has the gaps paragraph.
