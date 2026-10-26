@@ -428,3 +428,7 @@ https://hcm-ca10.hr.cloud.sap/xi/ui/rcmcommon/pages/jobReqPrintPreview.xhtml?job
 https://hcm-ca10.hr.cloud.sap/xi/ui/rcmcommon/pages/jobReqPrintPreview.xhtml?jobID=67403
 https://hcm-ca10.hr.cloud.sap/xi/ui/rcmcommon/pages/jobReqPrintPreview.xhtml?jobID=67513
 https://hcm-ca10.hr.cloud.sap/xi/ui/rcmcommon/pages/jobReqPrintPreview.xhtml?jobID=65654
+https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/117642
+https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116406
+https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/117600
+https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/117614

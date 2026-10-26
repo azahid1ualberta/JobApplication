@@ -7,7 +7,8 @@
 | **Type** | Full-time |
 | **Pay** | $140,764 – $198,828 |
 | **Posted** | About October 21, 2026 (LinkedIn) |
-| **Closes** | Not stated in the LinkedIn copy; check the Metrolinx careers portal |
+| **Job ID** | 116522 (from the posting you sent on 26 Oct) |
+| **Closes** | **3 Nov 2026, 11:59 PM** |
 | **Link** | https://ca.linkedin.com/jobs/view/4481143114 |
 
 ## Verdict
@@ -33,3 +34,6 @@ Leads with project running, coordination and briefing notes, then the Metrolinx 
 - Metrolinx notes that you may apply even if you do not meet every requirement.
 
 ## Priority: Low
+
+## Update, 26 October
+You sent the official posting: Job ID 116522, apply before 3 November, 11:59 PM. The resume was rebuilt with your CGPAs, MSc funding and scholarships.
