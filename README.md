@@ -188,3 +188,4 @@ single line. Say the word if you want it on the name and I will switch it.
 Everything comes from your existing resume. Nothing is invented, and where a posting asks for
 something you do not have, the cover letter says so plainly rather than talking around it. The
 notes file for each job spells out where you stand.
+| [Senior Project Manager, Traffic Engineering & Roadway Safety](applications/Dillon-Senior-Project-Manager-Traffic-Engineering-Roadway-Safety-4483555546) (4483555546) | Dillon Consulting, Toronto and 8 other Ontario offices | Not stated (posted 26 Oct) | **Weak.** Traffic studies, master plans and Synchro match; 10 years, P.Eng. or eligible, business development and staff mentoring missing. |
