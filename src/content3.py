@@ -89,8 +89,10 @@ SKILLS = [
 
 EDU = [
     "H2: Education",
-    "P: **MSc, Transportation Engineering** — University of Alberta, 2022",
-    "P: **BSc, Civil Engineering** — Bangladesh University of Engineering and Technology, 2018",
+    "P: **MSc, Transportation Engineering** — University of Alberta, 2022. CGPA 4.0/4.0; fully funded by the "
+    "university.",
+    "P: **BSc, Civil Engineering** — Bangladesh University of Engineering and Technology, 2018. CGPA 3.69/4.0; "
+    "University Merit Scholarship, University Stipend Scholarship, Technical Scholarship, Dean's List.",
     "P: **BSc, Computer Science** — University of British Columbia, in progress (2025–2027)",
 ]
 

@@ -14,7 +14,9 @@ One folder per job under `applications/<Org>-<Role>-<JobID>/` with:
   what the documents do, before-you-apply tips, priority
 
 Add a row to `README.md` for each application. When he sends postings in chat, deliver a
-**zip** with `SendUserFile`. The **daily run** delivers to Google Drive and pushes to GitHub
+**zip** with `SendUserFile`. Keep paths in the zip short (he asked on 26 October): one folder per
+job named `<n>_<JobID>_<ShortRole>`, holding `Abdullah_Al_Zahid_Resume.pdf`,
+`Abdullah_Al_Zahid_Cover_Letter.pdf`, `Job_Description.pdf` and `Notes.md`. The **daily run** delivers to Google Drive and pushes to GitHub
 (both approved by him on 5 October 2026).
 
 ## How to build the PDFs
@@ -68,8 +70,12 @@ letter. Key points:
   staging and road-closure traffic simulation **in Synchro**.
 - **Graduate Research Assistant, University of Alberta** — 2020–2022. Evacuation modelling
   (LWR, MATSim); GIS analysis for wildfire evacuation plans.
-- **Education:** MSc Transportation Engineering (UAlberta, 2022, CGPA 4.0/4.0); BSc Civil
-  Engineering (BUET, 2018, CGPA 3.69/4.0); BSc Computer Science (UBC, part-time, 2025–2027).
+- **Education:** MSc Transportation Engineering (UAlberta, 2022, CGPA 4.0/4.0, **fully funded by the
+  university**); BSc Civil Engineering (BUET, 2018, CGPA 3.69/4.0; University Merit Scholarship,
+  University Stipend Scholarship, Technical Scholarship, Dean's List); BSc Computer Science (UBC,
+  part-time, 2025–2027). He asked on 26 October for the CGPAs, scholarships and funding to be on
+  every resume. They are in the shared `EDU` block in `src/content3.py`, so do not remove them.
+  He gave the MSc funding in chat; it is not in `Resume_Content.md`, and it may still be used.
 - **Tools he has:** OpenTrack, TrainPlan, VISSIM, Synchro, MATSim; Python, SQL, JavaScript;
   ArcGIS Pro, QGIS, MapBox; **AutoCAD, Civil 3D**; Excel; Adobe Photoshop/Illustrator, Blender.
   (An earlier version of this file wrongly listed AutoCAD/Civil 3D as gaps — corrected Oct 2026.)
