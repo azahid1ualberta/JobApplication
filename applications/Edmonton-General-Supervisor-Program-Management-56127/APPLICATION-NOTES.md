@@ -5,7 +5,7 @@
 | **Division** | Safe Mobility (Vision Zero), reporting to the Director, Safe Mobility |
 | **Location** | Edmonton, Alberta |
 | **Type** | Full-time, leadership role over Program Management and Planning & Monitoring (about 30 permanent and 10 seasonal staff) |
-| **Pay** | Not stated |
+| **Pay** | $123,938 - $154,921 a year; hybrid (Edmonton Tower) |
 | **Posted** | LinkedIn, about 23 Oct 2026 |
 | **Closes** | Nov 5, 2026, 11:59 PM Alberta time |
 | **Link** | https://ca.linkedin.com/jobs/view/4480094289 |
