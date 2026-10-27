@@ -434,3 +434,16 @@ https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/
 https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/117614
 https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116577
 https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/117601
+https://ca.linkedin.com/jobs/view/4422046718  # skipped 2026-10-27: TransLink Principal Rail Expansion: P.Eng or PMP required, 10 yrs management, program director level, Vancouver
+https://jobs.toronto.ca/jobsatcity/job/Toronto-MANAGER-DEVELOPMENT-ENGINEERING-ON-M5V3C6/607359617/  # skipped 2026-10-27: P.Eng (PEO) licence mandatory; municipal servicing engineering
+https://ca.linkedin.com/jobs/view/4483649447  # skipped 2026-10-27: Ontario Land Surveyor licence mandatory
+https://ca.linkedin.com/jobs/view/4375432316  # skipped 2026-10-27: P.Eng and 10+ yrs MTO highway design required
+https://ca.linkedin.com/jobs/view/4375424791  # skipped 2026-10-27: Municipal design engineer, 8 yrs, outside field
+https://ca.linkedin.com/jobs/view/4480731481  # skipped 2026-10-27: BGIS Spatial Data Specialist: building survey iGuide capture, outside field
+https://ca.linkedin.com/jobs/view/4483596302  # skipped 2026-10-27: Bechtel Program Handover Manager: construction commissioning/handover, outside field
+https://ca.linkedin.com/jobs/view/4483274607  # skipped 2026-10-27: Kiewit scheduling manager: construction scheduling
+https://ca.linkedin.com/jobs/view/4482021094  # skipped 2026-10-27: Project controls director, 15 yrs minimum
+https://ca.linkedin.com/jobs/view/4483255725  # skipped 2026-10-27: 407 ETR finance data analyst
+https://ca.linkedin.com/jobs/view/4483637856  # skipped 2026-10-27: University campus facilities planning, outside field
+https://ca.linkedin.com/jobs/view/4483262151  # skipped 2026-10-27: Stakeholder management consulting, not transportation work
+https://ca.linkedin.com/jobs/view/4480094289
