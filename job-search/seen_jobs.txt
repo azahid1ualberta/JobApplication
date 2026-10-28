@@ -447,3 +447,70 @@ https://ca.linkedin.com/jobs/view/4483255725  # skipped 2026-10-27: 407 ETR fina
 https://ca.linkedin.com/jobs/view/4483637856  # skipped 2026-10-27: University campus facilities planning, outside field
 https://ca.linkedin.com/jobs/view/4483262151  # skipped 2026-10-27: Stakeholder management consulting, not transportation work
 https://ca.linkedin.com/jobs/view/4480094289
+https://ca.linkedin.com/jobs/view/4483683186
+https://ca.linkedin.com/jobs/view/4482257285
+https://ca.linkedin.com/jobs/view/4483814184
+https://ca.linkedin.com/jobs/view/4484251767
+https://ca.linkedin.com/jobs/view/4483671842
+https://ca.linkedin.com/jobs/view/4483679321
+https://ca.linkedin.com/jobs/view/4484288755
+https://ca.linkedin.com/jobs/view/4482203919  # skipped 2026-10-28: P.Eng (APEGA) mandatory
+https://ca.linkedin.com/jobs/view/4483683494  # skipped 2026-10-28: PMP required, 7 yrs engineering PM
+https://ca.linkedin.com/jobs/view/4483584277  # skipped 2026-10-28: grain trucking dispatch, not transportation planning
+https://ca.linkedin.com/jobs/view/4482864675  # skipped 2026-10-28: land-use community planner, outside transportation focus
+https://ca.linkedin.com/jobs/view/4483805799  # skipped 2026-10-28: environmental PM (EPA, noise, soil), outside field
+https://ca.linkedin.com/jobs/view/4483817202  # skipped 2026-10-28: CROR certification required
+https://ca.linkedin.com/jobs/view/4483683118  # skipped 2026-10-28: airport operations strategy, outside field
+https://ca.linkedin.com/jobs/view/4484479092  # skipped 2026-10-28: construction scheduling, 8+ yrs mega-project
+https://ca.linkedin.com/jobs/view/4461658684  # skipped 2026-10-28: P.Eng mandatory, 10+ yrs
+https://ca.linkedin.com/jobs/view/4483669427  # skipped 2026-10-28: P.Eng mandatory
+https://ca.linkedin.com/jobs/view/4483661958  # skipped 2026-10-28: P.Eng mandatory (TYLin Ottawa duplicate)
+https://ca.linkedin.com/jobs/view/4435673638  # skipped 2026-10-28: P.Eng mandatory, 10+ yrs
+https://ca.linkedin.com/jobs/view/4483210988  # skipped 2026-10-28: construction restoration program, outside field
+https://ca.linkedin.com/jobs/view/4482274613  # skipped 2026-10-28: municipal facilities control centre, Class G licence required
+https://ca.linkedin.com/jobs/view/4482261402  # skipped 2026-10-28: signalling project delivery, outside field
+https://ca.linkedin.com/jobs/view/4484468376  # skipped 2026-10-28: P.Eng mandatory, RAMS/signalling
+https://ca.linkedin.com/jobs/view/4483679322  # skipped 2026-10-28: VP operations, 15+ yrs, CROR
+https://ca.linkedin.com/jobs/view/4483697737  # skipped 2026-10-28: IT enterprise applications
+https://ca.linkedin.com/jobs/view/4484295469  # skipped 2026-10-28: duplicate of Dillon Strategic Lead posting built from Toronto listing
+https://ca.linkedin.com/jobs/view/4484297367  # skipped 2026-10-28: duplicate of Dillon Strategic Lead posting built from Toronto listing
+https://ca.linkedin.com/jobs/view/4484404045  # skipped 2026-10-28: duplicate of Dillon Strategic Lead posting built from Toronto listing
+https://ca.linkedin.com/jobs/view/4484287843  # skipped 2026-10-28: duplicate of Dillon Strategic Lead posting built from Toronto listing
+https://ca.linkedin.com/jobs/view/4484296478  # skipped 2026-10-28: duplicate of Dillon Strategic Lead posting built from Toronto listing
+https://ca.linkedin.com/jobs/view/4484404050  # skipped 2026-10-28: duplicate of Dillon Strategic Lead posting built from Toronto listing
+https://ca.linkedin.com/jobs/view/4484283917  # skipped 2026-10-28: duplicate of Dillon Strategic Lead posting built from Toronto listing
+https://jobs.toronto.ca/jobsatcity/job/Toronto-SENIOR-PROJECT-MANAGER-%28Community-Infrastructure%29-ON-M5V3C6/607403917/  # skipped 2026-10-28: social development community infrastructure, outside transportation field
+https://ca.linkedin.com/jobs/view/4375065873  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4422014838  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4438104987  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4438118266  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4439324865  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4446869766  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4474005127  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4479466056  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4480559513  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4482226283  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4482246821  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4482247668  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4482258063  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4482511738  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4483688085  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4483696207  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4483699540  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4483764645  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4483805014  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4483859726  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4483875307  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4483883179  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4483887080  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4484208723  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4484218340  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4484223204  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4484235876  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4484260011  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4484261898  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4484272444  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4484272894  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4484282460  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4484296866  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4484433639  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
