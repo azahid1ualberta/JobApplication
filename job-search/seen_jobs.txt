@@ -514,3 +514,10 @@ https://ca.linkedin.com/jobs/view/4484272894  # skipped 2026-10-28: title outsid
 https://ca.linkedin.com/jobs/view/4484282460  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
 https://ca.linkedin.com/jobs/view/4484296866  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
 https://ca.linkedin.com/jobs/view/4484433639  # skipped 2026-10-28: title outside his field (not transportation/GIS/planning), judged from the finder table
+https://ca.linkedin.com/jobs/view/4482551662  # skipped 2026-10-29: Kemira Transportation Planner is trucking/freight dispatch, not his field
+https://ca.linkedin.com/jobs/view/4484703079  # skipped 2026-10-29: Bechtel Senior Planner posting terminated
+https://ca.linkedin.com/jobs/view/4446392870  # skipped 2026-10-29: EXP Senior Roadway Engineer: P.Eng with PEO required, 10+ years, detailed road design
+https://ca.linkedin.com/jobs/view/4460301098  # skipped 2026-10-29: Dillon engagement specialist: stakeholder engagement, outside his field
+https://ca.linkedin.com/jobs/view/4428959985  # skipped 2026-10-29: Kongsberg Geospatial solutions engineering manager: defence software sales engineering
+https://ca.linkedin.com/jobs/view/4484926785  # skipped 2026-10-29: Arcadis land development PM: servicing reports, outside field
+https://ca.linkedin.com/jobs/view/4484102058  # skipped 2026-10-29: Peel DEI advisor, outside field
